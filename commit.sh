@@ -1,7 +1,5 @@
-git config --global user.name "Innei"
-git config --global user.email "tukon479@gmail.com"
-# git config --global user.signingkey 7288DB9F
+git config --global user.name "Adkimsm"
+git config --global user.email "3020035335@qq.com"
 git add readme.md
-# git commit -S -m 'Update at $(date +%Y-%m-%d)'
-git commit -m 'Update at '$(date +%Y-%m-%d)
+git commit -m 'chore: Update readme.md at '$(date +%Y-%m-%d)
 git push
