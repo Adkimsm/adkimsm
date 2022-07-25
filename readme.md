@@ -32,5 +32,25 @@
     <td><a href=https://github.com/pvdlg/conventional-changelog-metahub>pvdlg/conventional-changelog-metahub</a></td>
     <td>conventional-changelog preset</td>
   </tr>
+  <tr>
+    <td><a href=https://github.com/yu-steven/openit>yu-steven/openit</a></td>
+    <td>致力于打造免费无感的翻墙环境</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/geist-org/geist-ui>geist-org/geist-ui</a></td>
+    <td>A design system for building modern websites and applications.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/reactify-component/react-message>reactify-component/react-message</a></td>
+    <td>A simple asynchronous React message popup utility</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/torvalds/linux>torvalds/linux</a></td>
+    <td>Linux kernel source tree</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/nodejs/node>nodejs/node</a></td>
+    <td>Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:</td>
+  </tr>
 </table>
 
