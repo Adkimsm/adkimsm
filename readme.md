@@ -6,6 +6,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact)
 
+## Recent Stars
+
 <table>
   <tr>
     <td>Name</td>
