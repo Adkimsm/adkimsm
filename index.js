@@ -24,7 +24,9 @@ let README_TEMPLATE = `<h1 align="center">Welcome To Adkinsm's Profile On GitHub
 Update At {{DATE}}
 `;
 
-let date = Date.getFullYear()+"-"+(Date.getMonth()+1)+"-"+Date.getDate();
+let ate = new Date()
+
+let date = ate.getFullYear()+"-"+(ate.getMonth()+1)+"-"+ate.getDate();
 let { body } = await got(`/users/${USERNAME}/starred`);
 const starred = await body
   .slice(0, 10)
@@ -38,6 +40,6 @@ function generateRepoHTML(item) {
   </tr>`;
 }
 
-let readmeContent = README_TEMPLATE.replace(/{{CONTENT}}/, starred);
+let readmeContent = README_TEMPLATE.replace(/{{CONTENT}}/, starred).replace(/{{DATE}}/, date)
 
 fs.writeFileSync("./readme.md", readmeContent, { encoding: "utf-8" });
