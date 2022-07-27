@@ -21,8 +21,10 @@ let README_TEMPLATE = `<h1 align="center">Welcome To Adkinsm's Profile On GitHub
   {{CONTENT}}
 </table>
 
+Update At {{DATE}}
 `;
 
+let date = Date.getFullYear()+"-"+(Date.getMonth()+1)+"-"+Date.getDate();
 let { body } = await got(`/users/${USERNAME}/starred`);
 const starred = await body
   .slice(0, 10)
