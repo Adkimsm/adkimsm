@@ -15,6 +15,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Kysolva/scadies>Kysolva/scadies</a></td>
+    <td>A Powerful Dynamic Blog System, Powered By TypeScript & Express.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/nx-space/core>nx-space/core</a></td>
+    <td>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/google/zx>google/zx</a></td>
     <td>A tool for writing better scripts</td>
   </tr>
@@ -46,14 +54,6 @@
     <td><a href=https://github.com/reactify-component/react-message>reactify-component/react-message</a></td>
     <td>A simple asynchronous React message popup utility</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/torvalds/linux>torvalds/linux</a></td>
-    <td>Linux kernel source tree</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/nodejs/node>nodejs/node</a></td>
-    <td>Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:</td>
-  </tr>
 </table>
 
-Update At 2022-7-29
+Update At 2022-7-30
