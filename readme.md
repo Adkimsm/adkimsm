@@ -15,6 +15,26 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/walinejs/waline>walinejs/waline</a></td>
+    <td>💬 A Simple, Safe Comment System</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a></td>
+    <td>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/hexojs/hexo>hexojs/hexo</a></td>
+    <td>A fast, simple & powerful blog framework, powered by Node.js.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/typlog/yue.css>typlog/yue.css</a></td>
+    <td>A typography stylesheet for readable content</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/panva/jose>panva/jose</a></td>
+    <td>"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Kysolva/scadies>Kysolva/scadies</a></td>
     <td>A Powerful Dynamic Blog System, Powered By TypeScript & Express.</td>
   </tr>
@@ -34,26 +54,6 @@
     <td><a href=https://github.com/microsoft/vscode>microsoft/vscode</a></td>
     <td>Visual Studio Code</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/MHuiG/devtools-detecter>MHuiG/devtools-detecter</a></td>
-    <td>基于定时性能采样的 DevTools 检测</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/pvdlg/conventional-changelog-metahub>pvdlg/conventional-changelog-metahub</a></td>
-    <td>conventional-changelog preset</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/yu-steven/openit>yu-steven/openit</a></td>
-    <td>致力于打造免费无感的翻墙环境</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/geist-org/geist-ui>geist-org/geist-ui</a></td>
-    <td>A design system for building modern websites and applications.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/reactify-component/react-message>reactify-component/react-message</a></td>
-    <td>A simple asynchronous React message popup utility</td>
-  </tr>
 </table>
 
-Update At 2022-7-30
+Update At 2022-7-31
