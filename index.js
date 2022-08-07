@@ -7,6 +7,10 @@ let README_TEMPLATE = `<h1 align="center">Welcome To Adkinsm's Profile On GitHub
 
 - 👋 Hi, I’m Adkimsm.
 
+> 初二摆烂人
+
+> 暑假快没了，作业还没写，赶作业去了
+
 ![](https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact)
