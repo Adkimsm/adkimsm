@@ -2,6 +2,10 @@
 
 - 👋 Hi, I’m Adkimsm.
 
+> 初二摆烂人
+
+> 暑假快没了，作业还没写，赶作业去了
+
 ![](https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact)
@@ -14,6 +18,10 @@
     <td>Description</td>
   </tr>
   
+  <tr>
+    <td><a href=https://github.com/RimoChan/unvcode>RimoChan/unvcode</a></td>
+    <td>【幼女Code】反和谐超级武器！</td>
+  </tr>
   <tr>
     <td><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a></td>
     <td>cqhttp的golang实现，轻量、原生跨平台.</td>
@@ -49,10 +57,6 @@
   <tr>
     <td><a href=https://github.com/google/zx>google/zx</a></td>
     <td>A tool for writing better scripts</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/microsoft/TypeScript>microsoft/TypeScript</a></td>
-    <td>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</td>
   </tr>
 </table>
 
