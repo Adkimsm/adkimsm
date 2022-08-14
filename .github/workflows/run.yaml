@@ -8,7 +8,9 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/1 * * *'
+    
+    # 此仓库最大的用处是用来凑commits
 
 jobs:
   build:
