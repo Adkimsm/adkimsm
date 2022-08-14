@@ -19,6 +19,26 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/AndPuQing/Papilot>AndPuQing/Papilot</a></td>
+    <td>Papilot - an open-source GitHub Copilot server based PaddleNLP</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/moyix/fauxpilot>moyix/fauxpilot</a></td>
+    <td>FauxPilot - an open-source GitHub Copilot server</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/Saul-Mirone/milkdown>Saul-Mirone/milkdown</a></td>
+    <td>🍼 Plugin driven WYSIWYG  markdown editor framework.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/mx-space/core>mx-space/core</a></td>
+    <td>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/imaegoo/twikoo>imaegoo/twikoo</a></td>
+    <td>💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/RimoChan/unvcode>RimoChan/unvcode</a></td>
     <td>【幼女Code】反和谐超级武器！</td>
   </tr>
@@ -38,26 +58,6 @@
     <td><a href=https://github.com/hexojs/hexo>hexojs/hexo</a></td>
     <td>A fast, simple & powerful blog framework, powered by Node.js.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/typlog/yue.css>typlog/yue.css</a></td>
-    <td>A typography stylesheet for readable content</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/panva/jose>panva/jose</a></td>
-    <td>"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Kysolva/scadies>Kysolva/scadies</a></td>
-    <td>A Powerful Dynamic Blog System, Powered By TypeScript & Express.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/nx-space/core>nx-space/core</a></td>
-    <td>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/google/zx>google/zx</a></td>
-    <td>A tool for writing better scripts</td>
-  </tr>
 </table>
 
-Update At 2022-8-14
+Update At 2022-8-14    8:45
