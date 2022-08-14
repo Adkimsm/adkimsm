@@ -30,7 +30,7 @@ Update At {{DATE}}
 
 let ate = new Date()
 
-let date = ate.getFullYear()+"-"+(ate.getMonth()+1)+"-"+ate.getDate();
+let date = ate.getFullYear()+"-"+(ate.getMonth()+1)+"-"+ate.getDate()+ "    "+ate.getHours() + ":" + ate.getMinutes()
 let { body } = await got(`/users/${USERNAME}/starred`);
 const starred = await body
   .slice(0, 10)
