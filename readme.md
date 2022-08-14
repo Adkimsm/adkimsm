@@ -19,6 +19,18 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a></td>
+    <td>Vite & Vue powered static site generator.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/johnlindquist/kit>johnlindquist/kit</a></td>
+    <td>Script Kit. Automate Anything.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/BuilderIO/mitosis>BuilderIO/mitosis</a></td>
+    <td>Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. </td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/AndPuQing/Papilot>AndPuQing/Papilot</a></td>
     <td>Papilot - an open-source GitHub Copilot server based PaddleNLP</td>
   </tr>
@@ -46,18 +58,6 @@
     <td><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a></td>
     <td>cqhttp的golang实现，轻量、原生跨平台.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/walinejs/waline>walinejs/waline</a></td>
-    <td>💬 A Simple, Safe Comment System</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a></td>
-    <td>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/hexojs/hexo>hexojs/hexo</a></td>
-    <td>A fast, simple & powerful blog framework, powered by Node.js.</td>
-  </tr>
 </table>
 
-Update At 2022-8-14    8:50
+Update At 2022-8-14    9:14
