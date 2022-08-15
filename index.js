@@ -47,3 +47,4 @@ function generateRepoHTML(item) {
 let readmeContent = README_TEMPLATE.replace(/{{CONTENT}}/, starred).replace(/{{DATE}}/, date)
 
 fs.writeFileSync("./readme.md", readmeContent, { encoding: "utf-8" });
+ 
