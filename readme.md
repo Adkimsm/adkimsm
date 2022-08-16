@@ -19,6 +19,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/electron/electron>electron/electron</a></td>
+    <td>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a></td>
     <td>Vite & Vue powered static site generator.</td>
   </tr>
@@ -54,10 +58,6 @@
     <td><a href=https://github.com/RimoChan/unvcode>RimoChan/unvcode</a></td>
     <td>【幼女Code】反和谐超级武器！</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a></td>
-    <td>cqhttp的golang实现，轻量、原生跨平台.</td>
-  </tr>
 </table>
 
-Update At 2022-8-16    3:39
+Update At 2022-8-16    4:33
