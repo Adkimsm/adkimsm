@@ -19,6 +19,22 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/cypress-io/cypress>cypress-io/cypress</a></td>
+    <td>Fast, easy and reliable testing for anything that runs in a browser.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a></td>
+    <td>Build, test, send emails with React</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/Tencent/weui>Tencent/weui</a></td>
+    <td>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/tajo/react-movable>tajo/react-movable</a></td>
+    <td>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/electron/electron>electron/electron</a></td>
     <td>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</td>
   </tr>
@@ -42,22 +58,6 @@
     <td><a href=https://github.com/moyix/fauxpilot>moyix/fauxpilot</a></td>
     <td>FauxPilot - an open-source GitHub Copilot server</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Saul-Mirone/milkdown>Saul-Mirone/milkdown</a></td>
-    <td>🍼 Plugin driven WYSIWYG  markdown editor framework.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/mx-space/core>mx-space/core</a></td>
-    <td>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/imaegoo/twikoo>imaegoo/twikoo</a></td>
-    <td>💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/RimoChan/unvcode>RimoChan/unvcode</a></td>
-    <td>【幼女Code】反和谐超级武器！</td>
-  </tr>
 </table>
 
-Update At 2022-8-16    22:10
+Update At 2022-8-17    1:1
