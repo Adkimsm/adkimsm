@@ -26,6 +26,8 @@ let README_TEMPLATE = `<h1 align="center">Welcome To Adkinsm's Profile On GitHub
 </table>
 
 Update At {{DATE}}
+---
+<p align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</p>
 `;
 
 let ate = new Date()
