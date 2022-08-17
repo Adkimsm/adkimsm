@@ -19,6 +19,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/framer/motion>framer/motion</a></td>
+    <td>Open source, production-ready animation and gesture library for React</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/cypress-io/cypress>cypress-io/cypress</a></td>
     <td>Fast, easy and reliable testing for anything that runs in a browser.</td>
   </tr>
@@ -54,10 +58,6 @@
     <td><a href=https://github.com/AndPuQing/Papilot>AndPuQing/Papilot</a></td>
     <td>Papilot - an open-source GitHub Copilot server based PaddleNLP</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/moyix/fauxpilot>moyix/fauxpilot</a></td>
-    <td>FauxPilot - an open-source GitHub Copilot server</td>
-  </tr>
 </table>
 
-Update At 2022-8-17    6:13
+Update At 2022-8-17    8:13
