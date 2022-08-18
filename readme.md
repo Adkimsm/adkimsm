@@ -8,7 +8,7 @@
 
 ## Badges
 
-![](https://gitwar.herokuapp.com/badge?username=Adkimsm&style=for-the-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
 
 ### Often Read
 
@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-Update At 2022-8-18    13:16
+Update At 2022-8-18    13:21
 
 ---
 
