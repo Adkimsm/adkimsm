@@ -51,7 +51,7 @@ let README_TEMPLATE = `<h1 align="center">大道至简 | The Best Way is Simple<
 
 Update At {{DATE}}
 ---
-<p align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</p>
+<h3 align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</h3>
 `;
 
 let ate = new Date()
