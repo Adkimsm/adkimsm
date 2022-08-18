@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To Adkinsm's Profile On GitHub</h1>
+<h1 align="center">大道至简 | The Best Way is Simple</h1>
 
 - 👋 Hi, I’m Adkimsm.
 
@@ -104,6 +104,6 @@
   </tr>
 </table>
 
-Update At 2022-8-18    12:37
+Update At 2022-8-18    12:41
 ---
 <p align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</p>
