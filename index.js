@@ -13,7 +13,7 @@ let README_TEMPLATE = `<h1 align="center">大道至简 | The Best Way is Simple<
 
 ## Badges
 
-![](https://gitwar.herokuapp.com/badge?username=Adkimsm&style=for-the-badge
+![](https://gitwar.herokuapp.com/badge?username=Adkimsm&style=for-the-badge)
 
 ### Often Read
 
