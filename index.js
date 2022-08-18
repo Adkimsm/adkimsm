@@ -50,7 +50,9 @@ let README_TEMPLATE = `<h1 align="center">大道至简 | The Best Way is Simple<
 </table>
 
 Update At {{DATE}}
+
 ---
+
 <h3 align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</h3>
 `;
 
