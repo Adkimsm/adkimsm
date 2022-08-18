@@ -6,7 +6,9 @@
 
 > 暑假快没了，作业还没写，赶作业去了
 
-## badges
+## Badges
+
+![](https://gitwar.herokuapp.com/badge?username=your-github-username&style=for-the-badge
 
 ### Often Read
 
@@ -84,7 +86,7 @@
   </tr>
 </table>
 
-Update At 2022-8-18    13:1
+Update At 2022-8-18    13:13
 
 ---
 
