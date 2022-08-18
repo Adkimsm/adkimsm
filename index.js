@@ -3,7 +3,7 @@ import fs from "fs";
 
 const USERNAME = "adkimsm";
 
-let README_TEMPLATE = `<h1 align="center">Welcome To Adkinsm's Profile On GitHub</h1>
+let README_TEMPLATE = `<h1 align="center">大道至简 | The Best Way is Simple</h1>
 
 - 👋 Hi, I’m Adkimsm.
 
