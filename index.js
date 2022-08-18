@@ -11,7 +11,9 @@ let README_TEMPLATE = `<h1 align="center">大道至简 | The Best Way is Simple<
 
 > 暑假快没了，作业还没写，赶作业去了
 
-## badges
+## Badges
+
+![](https://gitwar.herokuapp.com/badge?username=your-github-username&style=for-the-badge
 
 ### Often Read
 
