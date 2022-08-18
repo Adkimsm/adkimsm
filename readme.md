@@ -19,6 +19,26 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a></td>
+    <td>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a></td>
+    <td>Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/electron-vite/vite-plugin-electron>electron-vite/vite-plugin-electron</a></td>
+    <td>:electron: 🔗 ⚡️</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/electron-vite/electron-vite-react>electron-vite/electron-vite-react</a></td>
+    <td>:electron: Electron + Vite + React + Sass boilerplate.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/rust-lang/rust>rust-lang/rust</a></td>
+    <td>Empowering everyone to build reliable and efficient software.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/fireship-io/flamethrower>fireship-io/flamethrower</a></td>
     <td>A blazingly fast router for static sites</td>
   </tr>
@@ -38,28 +58,8 @@
     <td><a href=https://github.com/Qexo/Qexo>Qexo/Qexo</a></td>
     <td>A Quick, Powerful and Pretty Online Manager for Hexo. </td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/framer/motion>framer/motion</a></td>
-    <td>Open source, production-ready animation and gesture library for React</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/cypress-io/cypress>cypress-io/cypress</a></td>
-    <td>Fast, easy and reliable testing for anything that runs in a browser.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a></td>
-    <td>Build, test, send emails with React</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Tencent/weui>Tencent/weui</a></td>
-    <td>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/tajo/react-movable>tajo/react-movable</a></td>
-    <td>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</td>
-  </tr>
 </table>
 
-Update At 2022-8-18    6:13
+Update At 2022-8-18    8:12
 ---
 <p align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</p>
