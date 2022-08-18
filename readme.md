@@ -19,47 +19,47 @@
   </tr>
   
   <tr>
-    <td><a href=https://github.com/aircrack-ng/aircrack-ng>aircrack-ng/aircrack-ng</a></td>
-    <td>WiFi security auditing tools suite</td>
+    <td><a href=https://github.com/docsifyjs/docsify>docsifyjs/docsify</a></td>
+    <td>🃏 A magical documentation site generator.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a></td>
-    <td>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</td>
+    <td><a href=https://github.com/tj/commander.js>tj/commander.js</a></td>
+    <td>node.js command-line interfaces made easy</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a></td>
-    <td>Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.</td>
+    <td><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a></td>
+    <td>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/electron-vite/vite-plugin-electron>electron-vite/vite-plugin-electron</a></td>
-    <td>:electron: 🔗 ⚡️</td>
+    <td><a href=https://github.com/enquirer/enquirer>enquirer/enquirer</a></td>
+    <td>Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/electron-vite/electron-vite-react>electron-vite/electron-vite-react</a></td>
-    <td>:electron: Electron + Vite + React + Sass boilerplate.</td>
+    <td><a href=https://github.com/barbajs/barba>barbajs/barba</a></td>
+    <td>Create badass, fluid and smooth transition between your website's pages.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/rust-lang/rust>rust-lang/rust</a></td>
-    <td>Empowering everyone to build reliable and efficient software.</td>
+    <td><a href=https://github.com/giscus/giscus>giscus/giscus</a></td>
+    <td>A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/fireship-io/flamethrower>fireship-io/flamethrower</a></td>
-    <td>A blazingly fast router for static sites</td>
+    <td><a href=https://github.com/lit/lit>lit/lit</a></td>
+    <td>Lit is a simple library for building fast, lightweight web components.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/vercel/turborepo>vercel/turborepo</a></td>
-    <td>The High-performance Build System for JavaScript & TypeScript Codebases</td>
+    <td><a href=https://github.com/Shopify/draggable>Shopify/draggable</a></td>
+    <td>The JavaScript Drag & Drop library your grandparents warned you about.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/tj/n>tj/n</a></td>
-    <td>Node version management</td>
+    <td><a href=https://github.com/unjs/consola>unjs/consola</a></td>
+    <td> Elegant Console Logger for Node.js and Browser 🐨</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/vercel/ncc>vercel/ncc</a></td>
-    <td>Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</td>
+    <td><a href=https://github.com/denoland/deno>denoland/deno</a></td>
+    <td>A modern runtime for JavaScript and TypeScript.</td>
   </tr>
 </table>
 
-Update At 2022-8-18    10:12
+Update At 2022-8-18    12:21
 ---
 <p align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</p>
