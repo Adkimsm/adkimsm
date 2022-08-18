@@ -19,6 +19,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/aircrack-ng/aircrack-ng>aircrack-ng/aircrack-ng</a></td>
+    <td>WiFi security auditing tools suite</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a></td>
     <td>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</td>
   </tr>
@@ -54,12 +58,8 @@
     <td><a href=https://github.com/vercel/ncc>vercel/ncc</a></td>
     <td>Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Qexo/Qexo>Qexo/Qexo</a></td>
-    <td>A Quick, Powerful and Pretty Online Manager for Hexo. </td>
-  </tr>
 </table>
 
-Update At 2022-8-18    8:12
+Update At 2022-8-18    10:12
 ---
 <p align="center">𝓵𝓲𝓯𝓮,𝓵𝓸𝓿𝓮,𝓵𝓲𝓷𝓾𝔁</p>
