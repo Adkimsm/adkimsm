@@ -8,7 +8,7 @@
 
 ## Badges
 
-![](https://gitwar.herokuapp.com/badge?username=your-github-username&style=for-the-badge
+![](https://gitwar.herokuapp.com/badge?username=Adkimsm&style=for-the-badge
 
 ### Often Read
 
@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-Update At 2022-8-18    13:13
+Update At 2022-8-18    13:14
 
 ---
 
