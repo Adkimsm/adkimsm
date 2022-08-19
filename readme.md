@@ -47,6 +47,30 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/bottlesdevs/Bottles>bottlesdevs/Bottles</a></td>
+    <td>Easily manage wine prefixes in a new way. Run Windows software and games on Linux</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/v1s1t0r1sh3r3/airgeddon>v1s1t0r1sh3r3/airgeddon</a></td>
+    <td>This is a multi-use bash script for Linux systems to audit wireless networks.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a></td>
+    <td>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/onivim/oni2>onivim/oni2</a></td>
+    <td>Native, lightweight modal code editor</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/GitSquared/edex-ui>GitSquared/edex-ui</a></td>
+    <td>A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a></td>
+    <td>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: </td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/expressjs/express>expressjs/express</a></td>
     <td>Fast, unopinionated, minimalist web framework for node.</td>
   </tr>
@@ -62,33 +86,9 @@
     <td><a href=https://github.com/tonsky/FiraCode>tonsky/FiraCode</a></td>
     <td>Free monospaced font with programming ligatures</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/JetBrains/JetBrainsMono>JetBrains/JetBrainsMono</a></td>
-    <td>JetBrains Mono – the free and open-source typeface for developers</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/lxgw/kose-font>lxgw/kose-font</a></td>
-    <td>A Chinese handwriting font derived from SetoFont / Naikai Font / cjkFonts-AllSeto. 一款衍生于「濑户字体」「内海字体」「cjkFonts 全濑体」的中文手写字型。</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/lxgw/yozai-font>lxgw/yozai-font</a></td>
-    <td>A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/neutralinojs/neutralinojs>neutralinojs/neutralinojs</a></td>
-    <td>Portable and lightweight cross-platform desktop application development framework</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/veactjs/veact>veactjs/veact</a></td>
-    <td>Mutable state enhancer library for React based on @vuejs</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Tencent/weui.js>Tencent/weui.js</a></td>
-    <td>A lightweight javascript library for WeUI.</td>
-  </tr>
 </table>
 
-Update At 2022-8-19    12:19
+Update At 2022-8-19    14:10
 
 ---
 
