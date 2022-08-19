@@ -45,6 +45,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/ArtalkJS/Artalk>ArtalkJS/Artalk</a></td>
+    <td>🌌 Golang 自托管评论系统 | A Selfhosted Comment System</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/marktext/marktext>marktext/marktext</a></td>
+    <td>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/docsifyjs/docsify>docsifyjs/docsify</a></td>
     <td>🃏 A magical documentation site generator.</td>
   </tr>
@@ -76,17 +84,9 @@
     <td><a href=https://github.com/Shopify/draggable>Shopify/draggable</a></td>
     <td>The JavaScript Drag & Drop library your grandparents warned you about.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/consola>unjs/consola</a></td>
-    <td> Elegant Console Logger for Node.js and Browser 🐨</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/denoland/deno>denoland/deno</a></td>
-    <td>A modern runtime for JavaScript and TypeScript.</td>
-  </tr>
 </table>
 
-Update At 2022-8-19    8:13
+Update At 2022-8-19    10:13
 
 ---
 
