@@ -47,48 +47,48 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/expressjs/express>expressjs/express</a></td>
+    <td>Fast, unopinionated, minimalist web framework for node.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/red-axe/am-editor>red-axe/am-editor</a></td>
+    <td>A rich text collaborative editor framework that can use React and Vue custom plug-ins. 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/bytebase/star-history>bytebase/star-history</a></td>
+    <td>The missing star history graph of GitHub repos - https://star-history.com</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/tonsky/FiraCode>tonsky/FiraCode</a></td>
+    <td>Free monospaced font with programming ligatures</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/JetBrains/JetBrainsMono>JetBrains/JetBrainsMono</a></td>
+    <td>JetBrains Mono – the free and open-source typeface for developers</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/lxgw/kose-font>lxgw/kose-font</a></td>
+    <td>A Chinese handwriting font derived from SetoFont / Naikai Font / cjkFonts-AllSeto. 一款衍生于「濑户字体」「内海字体」「cjkFonts 全濑体」的中文手写字型。</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/lxgw/yozai-font>lxgw/yozai-font</a></td>
+    <td>A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/neutralinojs/neutralinojs>neutralinojs/neutralinojs</a></td>
+    <td>Portable and lightweight cross-platform desktop application development framework</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/veactjs/veact>veactjs/veact</a></td>
+    <td>Mutable state enhancer library for React based on @vuejs</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Tencent/weui.js>Tencent/weui.js</a></td>
     <td>A lightweight javascript library for WeUI.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/ArtalkJS/Artalk>ArtalkJS/Artalk</a></td>
-    <td>🌌 Golang 自托管评论系统 | A Selfhosted Comment System</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/marktext/marktext>marktext/marktext</a></td>
-    <td>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/docsifyjs/docsify>docsifyjs/docsify</a></td>
-    <td>🃏 A magical documentation site generator.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/tj/commander.js>tj/commander.js</a></td>
-    <td>node.js command-line interfaces made easy</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a></td>
-    <td>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/enquirer/enquirer>enquirer/enquirer</a></td>
-    <td>Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/barbajs/barba>barbajs/barba</a></td>
-    <td>Create badass, fluid and smooth transition between your website's pages.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/giscus/giscus>giscus/giscus</a></td>
-    <td>A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/lit/lit>lit/lit</a></td>
-    <td>Lit is a simple library for building fast, lightweight web components.</td>
-  </tr>
 </table>
 
-Update At 2022-8-19    10:45
+Update At 2022-8-19    12:19
 
 ---
 
