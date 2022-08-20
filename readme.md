@@ -47,48 +47,48 @@
   </tr>
   
   <tr>
-    <td><a href=https://github.com/bottlesdevs/Bottles>bottlesdevs/Bottles</a></td>
-    <td>Easily manage wine prefixes in a new way. Run Windows software and games on Linux</td>
+    <td><a href=https://github.com/badges/shields>badges/shields</a></td>
+    <td>Concise, consistent, and legible badges in SVG and raster format</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/v1s1t0r1sh3r3/airgeddon>v1s1t0r1sh3r3/airgeddon</a></td>
-    <td>This is a multi-use bash script for Linux systems to audit wireless networks.</td>
+    <td><a href=https://github.com/VSCodium/vscodium>VSCodium/vscodium</a></td>
+    <td>binary releases of VS Code without MS branding/telemetry/licensing</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a></td>
-    <td>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</td>
+    <td><a href=https://github.com/lite-xl/lite-xl>lite-xl/lite-xl</a></td>
+    <td>A lightweight text editor written in Lua</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/onivim/oni2>onivim/oni2</a></td>
-    <td>Native, lightweight modal code editor</td>
+    <td><a href=https://github.com/codemirror/codemirror5>codemirror/codemirror5</a></td>
+    <td>In-browser code editor (version 5, legacy)</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/GitSquared/edex-ui>GitSquared/edex-ui</a></td>
-    <td>A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.</td>
+    <td><a href=https://github.com/microsoft/monaco-editor>microsoft/monaco-editor</a></td>
+    <td>A browser based code editor</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a></td>
-    <td>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: </td>
+    <td><a href=https://github.com/fabiospampinato/cash>fabiospampinato/cash</a></td>
+    <td>An absurdly small jQuery alternative for modern browsers.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/expressjs/express>expressjs/express</a></td>
-    <td>Fast, unopinionated, minimalist web framework for node.</td>
+    <td><a href=https://github.com/oven-sh/bun>oven-sh/bun</a></td>
+    <td>Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/red-axe/am-editor>red-axe/am-editor</a></td>
-    <td>A rich text collaborative editor framework that can use React and Vue custom plug-ins. 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。</td>
+    <td><a href=https://github.com/rollup/rollup>rollup/rollup</a></td>
+    <td>Next-generation ES module bundler</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/bytebase/star-history>bytebase/star-history</a></td>
-    <td>The missing star history graph of GitHub repos - https://star-history.com</td>
+    <td><a href=https://github.com/egoist/tsup>egoist/tsup</a></td>
+    <td>The simplest and fastest way to bundle your TypeScript libraries.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/tonsky/FiraCode>tonsky/FiraCode</a></td>
-    <td>Free monospaced font with programming ligatures</td>
+    <td><a href=https://github.com/sxzz/node-lib-starter>sxzz/node-lib-starter</a></td>
+    <td>My minimal Node.js library starter</td>
   </tr>
 </table>
 
-Update At 2022-8-20    0:54
+Update At 2022-8-20    3:28
 
 ---
 
