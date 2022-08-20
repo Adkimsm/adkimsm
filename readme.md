@@ -47,6 +47,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/vercel/hyper>vercel/hyper</a></td>
+    <td>A terminal built on web technologies</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/muesli/duf>muesli/duf</a></td>
+    <td>Disk Usage/Free Utility - a better 'df' alternative</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/badges/shields>badges/shields</a></td>
     <td>Concise, consistent, and legible badges in SVG and raster format</td>
   </tr>
@@ -78,17 +86,9 @@
     <td><a href=https://github.com/rollup/rollup>rollup/rollup</a></td>
     <td>Next-generation ES module bundler</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/egoist/tsup>egoist/tsup</a></td>
-    <td>The simplest and fastest way to bundle your TypeScript libraries.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/sxzz/node-lib-starter>sxzz/node-lib-starter</a></td>
-    <td>My minimal Node.js library starter</td>
-  </tr>
 </table>
 
-Update At 2022-8-20    4:25
+Update At 2022-8-20    6:12
 
 ---
 
