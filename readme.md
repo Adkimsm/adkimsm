@@ -51,6 +51,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/samzhangjy/modelo>samzhangjy/modelo</a></td>
+    <td>Instantly record your codes.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/vuejs/blog>vuejs/blog</a></td>
+    <td>📝 The official Vue.js blog</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/timlrx/tailwind-nextjs-starter-blog>timlrx/tailwind-nextjs-starter-blog</a></td>
     <td>This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.</td>
   </tr>
@@ -82,17 +90,9 @@
     <td><a href=https://github.com/muesli/duf>muesli/duf</a></td>
     <td>Disk Usage/Free Utility - a better 'df' alternative</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/badges/shields>badges/shields</a></td>
-    <td>Concise, consistent, and legible badges in SVG and raster format</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/VSCodium/vscodium>VSCodium/vscodium</a></td>
-    <td>binary releases of VS Code without MS branding/telemetry/licensing</td>
-  </tr>
 </table>
 
-Update At 2022-8-22    8:13
+Update At 2022-8-22    10:12
 
 ---
 
