@@ -51,6 +51,18 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/timlrx/tailwind-nextjs-starter-blog>timlrx/tailwind-nextjs-starter-blog</a></td>
+    <td>This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/facebook/lexical>facebook/lexical</a></td>
+    <td>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/zkeq/news>zkeq/news</a></td>
+    <td>前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a></td>
     <td>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</td>
   </tr>
@@ -78,21 +90,9 @@
     <td><a href=https://github.com/VSCodium/vscodium>VSCodium/vscodium</a></td>
     <td>binary releases of VS Code without MS branding/telemetry/licensing</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/lite-xl/lite-xl>lite-xl/lite-xl</a></td>
-    <td>A lightweight text editor written in Lua</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/codemirror/codemirror5>codemirror/codemirror5</a></td>
-    <td>In-browser code editor (version 5, legacy)</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/microsoft/monaco-editor>microsoft/monaco-editor</a></td>
-    <td>A browser based code editor</td>
-  </tr>
 </table>
 
-Update At 2022-8-22    6:16
+Update At 2022-8-22    8:13
 
 ---
 
