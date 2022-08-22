@@ -51,6 +51,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a></td>
+    <td>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a></td>
     <td>🌈 React for interactive command-line apps</td>
   </tr>
@@ -86,13 +90,9 @@
     <td><a href=https://github.com/microsoft/monaco-editor>microsoft/monaco-editor</a></td>
     <td>A browser based code editor</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/fabiospampinato/cash>fabiospampinato/cash</a></td>
-    <td>An absurdly small jQuery alternative for modern browsers.</td>
-  </tr>
 </table>
 
-Update At 2022-8-22    3:52
+Update At 2022-8-22    5:3
 
 ---
 
