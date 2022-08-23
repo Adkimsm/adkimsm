@@ -51,48 +51,48 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/huanghongxun/HMCL>huanghongxun/HMCL</a></td>
+    <td>A Minecraft Launcher which is multi-functional, cross-platform and popular</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/nextapps-de/flexsearch>nextapps-de/flexsearch</a></td>
+    <td>Next-Generation full text search library for Browser and Node.js</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/meilisearch/meilisearch>meilisearch/meilisearch</a></td>
+    <td>An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/privatenumber/cleye>privatenumber/cleye</a></td>
+    <td>👁‍🗨 cleye — The intuitive CLI development tool for Node.js</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/DustinBrett/daedalOS>DustinBrett/daedalOS</a></td>
+    <td>Desktop environment in the browser.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/thesephist/libsearch>thesephist/libsearch</a></td>
+    <td>Simple, index-free full-text search for JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a></td>
+    <td>Fast, unstyled command menu React component.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/formkit/auto-animate>formkit/auto-animate</a></td>
+    <td>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/shuding/cobe>shuding/cobe</a></td>
+    <td>5kB WebGL globe lib.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/samzhangjy/modelo>samzhangjy/modelo</a></td>
     <td>Instantly record your codes.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/vuejs/blog>vuejs/blog</a></td>
-    <td>📝 The official Vue.js blog</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/timlrx/tailwind-nextjs-starter-blog>timlrx/tailwind-nextjs-starter-blog</a></td>
-    <td>This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/facebook/lexical>facebook/lexical</a></td>
-    <td>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/zkeq/news>zkeq/news</a></td>
-    <td>前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a></td>
-    <td>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a></td>
-    <td>🌈 React for interactive command-line apps</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/webfansplz/temir>webfansplz/temir</a></td>
-    <td>Vue for interactive command-line apps</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/vercel/hyper>vercel/hyper</a></td>
-    <td>A terminal built on web technologies</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/muesli/duf>muesli/duf</a></td>
-    <td>Disk Usage/Free Utility - a better 'df' alternative</td>
-  </tr>
 </table>
 
-Update At 2022-8-23    1:6
+Update At 2022-8-23    4:5
 
 ---
 
