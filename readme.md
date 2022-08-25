@@ -51,6 +51,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a></td>
+    <td>React components library with native dark theme support</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/maxlicheng/luci-app-unblockmusic>maxlicheng/luci-app-unblockmusic</a></td>
     <td>用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)</td>
   </tr>
@@ -86,13 +90,9 @@
     <td><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a></td>
     <td>Fast, unstyled command menu React component.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/formkit/auto-animate>formkit/auto-animate</a></td>
-    <td>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</td>
-  </tr>
 </table>
 
-Update At 2022-8-24    22:10
+Update At 2022-8-25    1:6
 
 ---
 
