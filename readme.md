@@ -51,6 +51,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/xojs/xo>xojs/xo</a></td>
+    <td>❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/withastro/astro>withastro/astro</a></td>
+    <td>Build faster websites with Astro's next-gen island architecture 🏝✨</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a></td>
     <td>React components library with native dark theme support</td>
   </tr>
@@ -82,17 +90,9 @@
     <td><a href=https://github.com/DustinBrett/daedalOS>DustinBrett/daedalOS</a></td>
     <td>Desktop environment in the browser.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/thesephist/libsearch>thesephist/libsearch</a></td>
-    <td>Simple, index-free full-text search for JavaScript</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a></td>
-    <td>Fast, unstyled command menu React component.</td>
-  </tr>
 </table>
 
-Update At 2022-8-26    4:11
+Update At 2022-8-26    6:30
 
 ---
 
