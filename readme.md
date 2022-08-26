@@ -51,6 +51,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/coder/coder>coder/coder</a></td>
+    <td>Remote development environments on your infrastructure provisioned with Terraform</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/net-byte/vtun>net-byte/vtun</a></td>
+    <td>A simple VPN written in Go.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/xojs/xo>xojs/xo</a></td>
     <td>❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults</td>
   </tr>
@@ -82,17 +90,9 @@
     <td><a href=https://github.com/meilisearch/meilisearch>meilisearch/meilisearch</a></td>
     <td>An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/privatenumber/cleye>privatenumber/cleye</a></td>
-    <td>👁‍🗨 cleye — The intuitive CLI development tool for Node.js</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/DustinBrett/daedalOS>DustinBrett/daedalOS</a></td>
-    <td>Desktop environment in the browser.</td>
-  </tr>
 </table>
 
-Update At 2022-8-26    10:11
+Update At 2022-8-26    12:21
 
 ---
 
