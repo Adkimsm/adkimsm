@@ -88,11 +88,11 @@
   </tr>
   <tr>
     <td><a href=https://github.com/meilisearch/meilisearch>meilisearch/meilisearch</a></td>
-    <td>An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.</td>
+    <td>A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.</td>
   </tr>
 </table>
 
-Update At 2022-8-29    14:11
+Update At 2022-8-29    16:13
 
 ---
 
