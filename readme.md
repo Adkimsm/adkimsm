@@ -4,8 +4,6 @@
 
 > 初二摆烂人
 
-> 暑假快没了，作业还没写，赶作业去了
-
 ## Badges
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
@@ -92,7 +90,7 @@
   </tr>
 </table>
 
-Update At 2022-9-11    1:4
+Update At 2022-9-11    3:16
 
 ---
 
