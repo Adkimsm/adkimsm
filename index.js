@@ -9,8 +9,6 @@ let README_TEMPLATE = `<h1 align="center">大道至简 | The Best Way is Simple<
 
 > 初二摆烂人
 
-> 暑假快没了，作业还没写，赶作业去了
-
 ## Badges
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
