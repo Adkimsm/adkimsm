@@ -49,6 +49,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/YousefED/BlockNote>YousefED/BlockNote</a></td>
+    <td>A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/coder/coder>coder/coder</a></td>
     <td>Remote development environments on your infrastructure provisioned with Terraform</td>
   </tr>
@@ -84,13 +88,9 @@
     <td><a href=https://github.com/nextapps-de/flexsearch>nextapps-de/flexsearch</a></td>
     <td>Next-Generation full text search library for Browser and Node.js</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/meilisearch/meilisearch>meilisearch/meilisearch</a></td>
-    <td>A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.</td>
-  </tr>
 </table>
 
-Update At 2022-9-11    3:16
+Update At 2022-9-11    4:2
 
 ---
 
