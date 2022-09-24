@@ -49,6 +49,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/antfu/antfu.me>antfu/antfu.me</a></td>
+    <td>My personal website</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/YousefED/BlockNote>YousefED/BlockNote</a></td>
     <td>A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</td>
   </tr>
@@ -84,13 +88,9 @@
     <td><a href=https://github.com/huanghongxun/HMCL>huanghongxun/HMCL</a></td>
     <td>A Minecraft Launcher which is multi-functional, cross-platform and popular</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/nextapps-de/flexsearch>nextapps-de/flexsearch</a></td>
-    <td>Next-Generation full text search library for Browser and Node.js</td>
-  </tr>
 </table>
 
-Update At 2022-9-24    10:11
+Update At 2022-9-24    12:21
 
 ---
 
