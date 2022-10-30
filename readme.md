@@ -50,12 +50,28 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a></td>
+    <td>Build smaller, faster, and more secure desktop applications with a web frontend.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a></td>
+    <td>The react library to build dashboards fast.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/webpro/knip>webpro/knip</a></td>
+    <td>Find unused files, dependencies and exports in your JS/TS project </td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a></td>
+    <td>An open source application built using the new router, server components and everything new in Next.js 13.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a></td>
     <td>Sometype Mono / Monospaced font</td>
   </tr>
   <tr>
     <td><a href=https://github.com/usememos/memos>usememos/memos</a></td>
-    <td>An open source, self-hosted knowledge base that works with a SQLite db file.</td>
+    <td>An open-source, self-hosted memo hub for knowledge management and collaboration.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/Kysolva/AdonS>Kysolva/AdonS</a></td>
@@ -73,25 +89,9 @@
     <td><a href=https://github.com/coder/coder>coder/coder</a></td>
     <td>Remote development environments on your infrastructure provisioned with Terraform</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/net-byte/vtun>net-byte/vtun</a></td>
-    <td>A simple VPN written in Go.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/xojs/xo>xojs/xo</a></td>
-    <td>❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/withastro/astro>withastro/astro</a></td>
-    <td>Build faster websites with Astro's next-gen island architecture 🏝✨</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a></td>
-    <td>React components library with native dark theme support</td>
-  </tr>
 </table>
 
-Update At 2022-10-30    6:13
+Update At 2022-10-30    8:13
 
 ---
 
