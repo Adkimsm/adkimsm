@@ -50,6 +50,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a></td>
+    <td>Sometype Mono / Monospaced font</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/usememos/memos>usememos/memos</a></td>
+    <td>An open source, self-hosted knowledge base that works with a SQLite db file.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Kysolva/AdonS>Kysolva/AdonS</a></td>
     <td>A ExeSystem.</td>
   </tr>
@@ -81,17 +89,9 @@
     <td><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a></td>
     <td>React components library with native dark theme support</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/maxlicheng/luci-app-unblockmusic>maxlicheng/luci-app-unblockmusic</a></td>
-    <td>用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/denoland/fresh>denoland/fresh</a></td>
-    <td>The next-gen web framework.</td>
-  </tr>
 </table>
 
-Update At 2022-10-30    4:39
+Update At 2022-10-30    6:13
 
 ---
 
