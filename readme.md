@@ -50,6 +50,14 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a></td>
+    <td>The HTML Presentation Framework</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a></td>
+    <td>🍐 The modern jQuery alternative</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a></td>
     <td>Build smaller, faster, and more secure desktop applications with a web frontend.</td>
   </tr>
@@ -81,17 +89,9 @@
     <td><a href=https://github.com/antfu/antfu.me>antfu/antfu.me</a></td>
     <td>My personal website</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/YousefED/BlockNote>YousefED/BlockNote</a></td>
-    <td>A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/coder/coder>coder/coder</a></td>
-    <td>Remote development environments on your infrastructure provisioned with Terraform</td>
-  </tr>
 </table>
 
-Update At 2022-11-4    1:2
+Update At 2022-11-4    3:36
 
 ---
 
