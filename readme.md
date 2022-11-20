@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td><a href=https://github.com/usememos/memos>usememos/memos</a></td>
-    <td>An open-source, self-hosted memo hub for knowledge management and collaboration.</td>
+    <td>An open-source, self-hosted memo hub with knowledge management and collaboration.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/Kysolva/AdonS>Kysolva/AdonS</a></td>
@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-Update At 2022-11-20    14:9
+Update At 2022-11-20    16:12
 
 ---
 
