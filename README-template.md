@@ -20,9 +20,9 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 <h2>Charts</h2>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+<img src="https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact" />
 
 </div>
 
