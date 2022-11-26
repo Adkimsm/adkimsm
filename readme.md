@@ -50,6 +50,10 @@
   </tr>
   
   <tr>
+    <td><a href=https://github.com/jj811208/watching-you>jj811208/watching-you</a></td>
+    <td>watching-you is a javascript library for building animations that watch anything on DOM 👀.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/unjs/ufo>unjs/ufo</a></td>
     <td>URL utils for humans</td>
   </tr>
@@ -85,13 +89,9 @@
     <td><a href=https://github.com/webpro/knip>webpro/knip</a></td>
     <td>Find unused files, dependencies and exports in your JS/TS project </td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a></td>
-    <td>An open source application built using the new router, server components and everything new in Next.js 13.</td>
-  </tr>
 </table>
 
-Update At 2022-11-26    0:46
+Update At 2022-11-26    1:32
 
 ---
 
