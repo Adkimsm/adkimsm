@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {},
   "keywords": [],
-  "author": "Innei",
+  "author": "Innei & Adkimsm",
   "license": "ISC",
   "dependencies": {
     "gh-got": "^9.0.0"
