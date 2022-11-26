@@ -16,14 +16,19 @@
 
 Feel free to contact me. But I am still a student... I might not be avilable on work days.
 
-## Charts
-<div style="display: inline;">
-<img src="https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="left" />
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact" align="right" />
+<h2>Charts</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact" />
+
 </div>
 
-## Recent Stars
+<div>
+
+<h2>Recent Stars</h2>
 
 <table>
   <tr>
@@ -32,6 +37,8 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   {{CONTENT}}
 </table>
+
+</div>
 
 Update At {{DATE}}
 
