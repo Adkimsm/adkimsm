@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/DefinitelyTyped/DefinitelyTyped>DefinitelyTyped/DefinitelyTyped</a></td>
+    <td>The repository for high quality TypeScript type definitions.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/vernesong/OpenClash>vernesong/OpenClash</a></td>
     <td>A Clash Client For OpenWrt</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a></td>
     <td>Build smaller, faster, and more secure desktop applications with a web frontend.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a></td>
-    <td>The react library to build dashboards fast.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2022-12-4    6:11
+Update At 2022-12-4    8:11
 
 ---
 
