@@ -70,7 +70,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a></td>
-    <td>🍐 The modern jQuery alternative</td>
+    <td>🍐 The modern jQuery alternative.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a></td>
@@ -80,7 +80,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2022-12-12    2:43
+Update At 2022-12-12    4:11
 
 ---
 
