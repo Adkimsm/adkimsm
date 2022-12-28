@@ -37,6 +37,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/adamhaile/S>adamhaile/S</a></td>
+    <td>S.js - Simple, Clean, Fast Reactive Programming in Javascript</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a></td>
+    <td>💻 Build terminal styled websites in minutes!</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/maaslalani/slides>maaslalani/slides</a></td>
+    <td>Terminal based presentation tool</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/DefinitelyTyped/DefinitelyTyped>DefinitelyTyped/DefinitelyTyped</a></td>
     <td>The repository for high quality TypeScript type definitions.</td>
   </tr>
@@ -64,23 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/CrazyCreativeDream/mpl.js>CrazyCreativeDream/mpl.js</a></td>
     <td>JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a></td>
-    <td>The HTML Presentation Framework</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a></td>
-    <td>🍐 The modern jQuery alternative.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a></td>
-    <td>Build smaller, faster, and more secure desktop applications with a web frontend.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2022-12-28    0:44
+Update At 2022-12-28    2:31
 
 ---
 
