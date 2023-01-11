@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/tw93/Pake>tw93/Pake</a></td>
+    <td>🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/samzhangjy/waterial>samzhangjy/waterial</a></td>
     <td>React components following Material 3 design.</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/unjs/ufo>unjs/ufo</a></td>
     <td>URL utils for humans</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/h3>unjs/h3</a></td>
-    <td>Minimal h(ttp) framework built for high performance and portability ⚡️</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-1-11    6:11
+Update At 2023-1-11    8:12
 
 ---
 
