@@ -37,6 +37,14 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a></td>
+    <td>A client for QQ and more.:electron:</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a></td>
+    <td>💠 BlockSuite is an open-source collaborative editor project behind the AFFiNE knowledge base.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/tw93/Pake>tw93/Pake</a></td>
     <td>🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</td>
   </tr>
@@ -68,19 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/vernesong/OpenClash>vernesong/OpenClash</a></td>
     <td>A Clash Client For OpenWrt</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/jj811208/watching-you>jj811208/watching-you</a></td>
-    <td>watching-you is a javascript library for building animations that watch anything on DOM 👀.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/ufo>unjs/ufo</a></td>
-    <td>URL utils for humans</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-1-13    22:7
+Update At 2023-1-14    0:44
 
 ---
 
