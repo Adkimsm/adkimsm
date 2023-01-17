@@ -37,6 +37,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a></td>
+    <td>Simple React Component That Makes Titles More Readable</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a></td>
+    <td>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a></td>
+    <td>Paranoid text spacing in JavaScript</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/nanxiaobei/resso>nanxiaobei/resso</a></td>
     <td>🪢 World's Simplest React State Manager</td>
   </tr>
@@ -64,23 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/adamhaile/S>adamhaile/S</a></td>
     <td>S.js - Simple, Clean, Fast Reactive Programming in Javascript</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a></td>
-    <td>💻 Build terminal styled websites in minutes!</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/maaslalani/slides>maaslalani/slides</a></td>
-    <td>Terminal based presentation tool</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/DefinitelyTyped/DefinitelyTyped>DefinitelyTyped/DefinitelyTyped</a></td>
-    <td>The repository for high quality TypeScript type definitions.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-1-17    10:9
+Update At 2023-1-17    12:18
 
 ---
 
