@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/cozmo/jsQR>cozmo/jsQR</a></td>
+    <td>A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a></td>
     <td>Simple React Component That Makes Titles More Readable</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/obsproject/obs-studio>obsproject/obs-studio</a></td>
     <td>OBS Studio - Free and open source software for live streaming and screen recording</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/adamhaile/S>adamhaile/S</a></td>
-    <td>S.js - Simple, Clean, Fast Reactive Programming in Javascript</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-1-18    10:10
+Update At 2023-1-18    12:17
 
 ---
 
