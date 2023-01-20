@@ -66,7 +66,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/tw93/Pake>tw93/Pake</a></td>
-    <td>🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</td>
+    <td>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</td>
   </tr>
   <tr>
     <td><a href=https://github.com/samzhangjy/waterial>samzhangjy/waterial</a></td>
@@ -80,7 +80,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-1-20    6:12
+Update At 2023-1-20    8:12
 
 ---
 
