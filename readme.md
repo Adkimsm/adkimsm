@@ -62,7 +62,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a></td>
-    <td>💠 BlockSuite is an open-source collaborative editor project behind the AFFiNE knowledge base.</td>
+    <td>💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/tw93/Pake>tw93/Pake</a></td>
@@ -80,7 +80,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-1-21    2:34
+Update At 2023-1-21    4:10
 
 ---
 
