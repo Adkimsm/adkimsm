@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/tinyplex/tinybase>tinyplex/tinybase</a></td>
+    <td>The reactive data store for local‑first apps.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/cozmo/jsQR>cozmo/jsQR</a></td>
     <td>A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/samzhangjy/waterial>samzhangjy/waterial</a></td>
     <td>React components following Material 3 design.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/obsproject/obs-studio>obsproject/obs-studio</a></td>
-    <td>OBS Studio - Free and open source software for live streaming and screen recording</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-1-30    22:8
+Update At 2023-1-31    0:51
 
 ---
 
