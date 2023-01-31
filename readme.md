@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/piovischioh/nextjs-blog-starter>piovischioh/nextjs-blog-starter</a></td>
+    <td>This is a Next.js blog starter project building with modern tech stacks like TypeScript, Tailwind CSS and Contentlayer.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/tinyplex/tinybase>tinyplex/tinybase</a></td>
     <td>The reactive data store for local‑first apps.</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/tw93/Pake>tw93/Pake</a></td>
     <td>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/samzhangjy/waterial>samzhangjy/waterial</a></td>
-    <td>React components following Material 3 design.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-1-31    8:11
+Update At 2023-1-31    10:9
 
 ---
 
