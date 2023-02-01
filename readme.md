@@ -37,6 +37,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/shadcn/ui>shadcn/ui</a></td>
+    <td>Beautifully designed components built with Radix UI and Tailwind CSS.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/TanStack/query>TanStack/query</a></td>
+    <td>🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/cacjs/cac>cacjs/cac</a></td>
+    <td>Simple yet powerful framework for building command-line apps.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/piovischioh/nextjs-blog-starter>piovischioh/nextjs-blog-starter</a></td>
     <td>This is a Next.js blog starter project building with modern tech stacks like TypeScript, Tailwind CSS and Contentlayer.</td>
   </tr>
@@ -64,23 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/nanxiaobei/resso>nanxiaobei/resso</a></td>
     <td>🪢 World's Simplest React State Manager</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a></td>
-    <td>A client for QQ and more.:electron:</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a></td>
-    <td>💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/tw93/Pake>tw93/Pake</a></td>
-    <td>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-1    12:18
+Update At 2023-2-1    14:8
 
 ---
 
