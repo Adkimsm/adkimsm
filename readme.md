@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/localsend/localsend>localsend/localsend</a></td>
+    <td>An open source cross-platform alternative to AirDrop</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/shadcn/ui>shadcn/ui</a></td>
     <td>Beautifully designed components built with Radix UI and Tailwind CSS.</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a></td>
     <td>Paranoid text spacing in JavaScript</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/nanxiaobei/resso>nanxiaobei/resso</a></td>
-    <td>🪢 World's Simplest React State Manager</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-2    8:11
+Update At 2023-2-2    10:9
 
 ---
 
