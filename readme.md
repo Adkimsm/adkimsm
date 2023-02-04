@@ -37,6 +37,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/shikijs/shiki>shikijs/shiki</a></td>
+    <td>A beautiful Syntax Highlighter.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/localsend/localsend>localsend/localsend</a></td>
     <td>An open source cross-platform alternative to AirDrop</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a></td>
     <td>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a></td>
-    <td>Paranoid text spacing in JavaScript</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-4    10:8
+Update At 2023-2-4    12:14
 
 ---
 
