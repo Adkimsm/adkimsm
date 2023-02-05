@@ -37,6 +37,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/yuantuo666/baiduwp-php>yuantuo666/baiduwp-php</a></td>
+    <td>PanDownload网页复刻版</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a></td>
+    <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a></td>
+    <td>A new bootable USB solution.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/shikijs/shiki>shikijs/shiki</a></td>
     <td>A beautiful Syntax Highlighter.</td>
   </tr>
@@ -64,23 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/tinyplex/tinybase>tinyplex/tinybase</a></td>
     <td>The reactive data store for local‑first apps.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/cozmo/jsQR>cozmo/jsQR</a></td>
-    <td>A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a></td>
-    <td>Simple React Component That Makes Titles More Readable</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a></td>
-    <td>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-5    0:53
+Update At 2023-2-5    2:44
 
 ---
 
