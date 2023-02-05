@@ -37,6 +37,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/eliassjogreen/maker>eliassjogreen/maker</a></td>
+    <td>🛠️ A few of my miscellaneous maker(space) projects</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/anhoder/go-musicfox>anhoder/go-musicfox</a></td>
+    <td>go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/darknessomi/musicbox>darknessomi/musicbox</a></td>
+    <td>网易云音乐命令行版本</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/yuantuo666/baiduwp-php>yuantuo666/baiduwp-php</a></td>
     <td>PanDownload网页复刻版</td>
   </tr>
@@ -64,23 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/TanStack/query>TanStack/query</a></td>
     <td>🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/cacjs/cac>cacjs/cac</a></td>
-    <td>Simple yet powerful framework for building command-line apps.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/piovischioh/nextjs-blog-starter>piovischioh/nextjs-blog-starter</a></td>
-    <td>This is a Next.js blog starter project building with modern tech stacks like TypeScript, Tailwind CSS and Contentlayer.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/tinyplex/tinybase>tinyplex/tinybase</a></td>
-    <td>The reactive data store for local‑first apps.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-5    6:10
+Update At 2023-2-5    8:10
 
 ---
 
