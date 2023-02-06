@@ -37,7 +37,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   
   <tr>
     <td><a href=https://github.com/motion-canvas/motion-canvas>motion-canvas/motion-canvas</a></td>
-    <td>Web-based tool for creating animations programmatically</td>
+    <td>Visualize Complex Ideas Programmatically</td>
   </tr>
   <tr>
     <td><a href=https://github.com/eliassjogreen/maker>eliassjogreen/maker</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-2-6    14:8
+Update At 2023-2-6    16:12
 
 ---
 
