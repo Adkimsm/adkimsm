@@ -5,7 +5,6 @@
 - A lazy 8th graders
 - A self-taught coder who is passionate about web technologies and open source.
 - I’m currently learning Vue 3, UI/UX Design & more!
-- Politically sensitive, left-wing radical, very much in love with China, but not so much love with the CCP.
 - Dissatisfied with the status quo but unable to do anything about it.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
@@ -36,6 +35,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td>Description</td>
   </tr>
   
+  <tr>
+    <td><a href=https://github.com/motion-canvas/motion-canvas>motion-canvas/motion-canvas</a></td>
+    <td>Web-based tool for creating animations programmatically</td>
+  </tr>
   <tr>
     <td><a href=https://github.com/eliassjogreen/maker>eliassjogreen/maker</a></td>
     <td>🛠️ A few of my miscellaneous maker(space) projects</td>
@@ -72,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/shadcn/ui>shadcn/ui</a></td>
     <td>Beautifully designed components built with Radix UI and Tailwind CSS.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/TanStack/query>TanStack/query</a></td>
-    <td>🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-6    6:12
+Update At 2023-2-6    7:40
 
 ---
 
