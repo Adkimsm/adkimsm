@@ -5,7 +5,6 @@
 - A lazy 8th graders
 - A self-taught coder who is passionate about web technologies and open source.
 - I’m currently learning Vue 3, UI/UX Design & more!
-- Politically sensitive, left-wing radical, very much in love with China, but not so much love with the CCP.
 - Dissatisfied with the status quo but unable to do anything about it.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
