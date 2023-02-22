@@ -36,6 +36,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic>UnblockNeteaseMusic/luci-app-unblockneteasemusic</a></td>
+    <td>[OpenWrt] 解除网易云音乐播放限制</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/austin2035/astro-air-blog>austin2035/astro-air-blog</a></td>
+    <td>A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/phodal/ai-research-for-practise>phodal/ai-research-for-practise</a></td>
+    <td>【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Grsmto/simplebar>Grsmto/simplebar</a></td>
     <td>Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.</td>
   </tr>
@@ -63,23 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a></td>
     <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a></td>
-    <td>A new bootable USB solution.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/shikijs/shiki>shikijs/shiki</a></td>
-    <td>A beautiful Syntax Highlighter.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/localsend/localsend>localsend/localsend</a></td>
-    <td>An open source cross-platform alternative to AirDrop</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-22    14:8
+Update At 2023-2-22    16:12
 
 ---
 
