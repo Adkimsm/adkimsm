@@ -60,7 +60,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td>🛠️ A few of my miscellaneous maker(space) projects</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/anhoder/go-musicfox>anhoder/go-musicfox</a></td>
+    <td><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a></td>
     <td>go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-2-26    2:52
+Update At 2023-2-26    4:11
 
 ---
 
