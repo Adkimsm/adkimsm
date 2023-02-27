@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/faisalman/ua-parser-js>faisalman/ua-parser-js</a></td>
+    <td>UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic>UnblockNeteaseMusic/luci-app-unblockneteasemusic</a></td>
     <td>[OpenWrt] 解除网易云音乐播放限制</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/yuantuo666/baiduwp-php>yuantuo666/baiduwp-php</a></td>
     <td>PanDownload网页复刻版</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a></td>
-    <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-2-27    10:11
+Update At 2023-2-27    12:18
 
 ---
 
