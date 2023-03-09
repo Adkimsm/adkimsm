@@ -36,6 +36,14 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a></td>
+    <td>🌸 An elegant theme for VS Code.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/farm-fe/farm>farm-fe/farm</a></td>
+    <td>Super fast web build tool written in Rust</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Chanzhaoyu/chatgpt-web>Chanzhaoyu/chatgpt-web</a></td>
     <td>用 Express 和  Vue3 搭建的 ChatGPT 演示网页</td>
   </tr>
@@ -67,19 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/eliassjogreen/maker>eliassjogreen/maker</a></td>
     <td>🛠️ A few of my miscellaneous maker(space) projects</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a></td>
-    <td>go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/darknessomi/musicbox>darknessomi/musicbox</a></td>
-    <td>网易云音乐命令行版本</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-3-9    12:18
+Update At 2023-3-9    14:9
 
 ---
 
