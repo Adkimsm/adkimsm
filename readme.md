@@ -57,7 +57,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/faisalman/ua-parser-js>faisalman/ua-parser-js</a></td>
-    <td>UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.</td>
+    <td>UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic>UnblockNeteaseMusic/luci-app-unblockneteasemusic</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-3-11    12:15
+Update At 2023-3-11    14:7
 
 ---
 
