@@ -65,7 +65,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/farm-fe/farm>farm-fe/farm</a></td>
-    <td>Super fast web build tool written in Rust</td>
+    <td>Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎</td>
   </tr>
   <tr>
     <td><a href=https://github.com/Chanzhaoyu/chatgpt-web>Chanzhaoyu/chatgpt-web</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-3-26    14:7
+Update At 2023-3-26    16:10
 
 ---
 
