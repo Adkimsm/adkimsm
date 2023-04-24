@@ -36,6 +36,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a></td>
+    <td>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/mlc-ai/web-llm>mlc-ai/web-llm</a></td>
+    <td>Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/expo/expo>expo/expo</a></td>
+    <td>An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a></td>
     <td>Smoking Hot React Notifications 🔥 </td>
   </tr>
@@ -63,23 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/facebook/fbt>facebook/fbt</a></td>
     <td>A JavaScript Internationalization Framework</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a></td>
-    <td>🌸 An elegant theme for VS Code.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/farm-fe/farm>farm-fe/farm</a></td>
-    <td>Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Chanzhaoyu/chatgpt-web>Chanzhaoyu/chatgpt-web</a></td>
-    <td>用 Express 和  Vue3 搭建的 ChatGPT 演示网页</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-4-24    14:8
+Update At 2023-4-24    16:11
 
 ---
 
