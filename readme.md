@@ -45,7 +45,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/BetterQQNT/BetterQQNT>BetterQQNT/BetterQQNT</a></td>
-    <td>A plugin loader for the universe.</td>
+    <td>QQNT/Electron 插件</td>
   </tr>
   <tr>
     <td><a href=https://github.com/mo-jinran/BetterQQNT>mo-jinran/BetterQQNT</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-6-6    14:7
+Update At 2023-6-6    16:10
 
 ---
 
