@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/quilljs/quill>quilljs/quill</a></td>
+    <td>Quill is a modern WYSIWYG editor built for compatibility and extensibility.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a></td>
     <td>🧱 A suite of React components .  </td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a></td>
     <td>Smoking Hot React Notifications 🔥 </td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/TransparentLC/watermarker>TransparentLC/watermarker</a></td>
-    <td>为敏感照片添加全屏水印的水印姬</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-6-7    14:7
+Update At 2023-6-7    16:10
 
 ---
 
