@@ -53,7 +53,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/mo-jinran/BetterQQNT>mo-jinran/BetterQQNT</a></td>
-    <td>QQNT的插件加载器</td>
+    <td>QQNT的插件加载器，清凉简洁，开源</td>
   </tr>
   <tr>
     <td><a href=https://github.com/material-components/material-web>material-components/material-web</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-6-10    10:8
+Update At 2023-6-10    12:13
 
 ---
 
