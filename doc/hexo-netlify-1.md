@@ -42,7 +42,7 @@ Hexo，一个强大的静态博客生成器。
 
 管理文章有很多方法。
 
-*   无需配置的方式是直接在 GitHub 上更改。你只需要在 GitHub 中进入 **source/\_post** 目录，在里面新建扩展名为 **.md** 的文件即可。当然你也可以复制已经存在的 hello-world.md 更改。&#x20;
+*   无需配置的方式是直接在 GitHub 上更改。你只需要在 GitHub 中进入 **source/\_post** 目录，在里面新建扩展名为 **.md** 的文件即可。当然你也可以复制已经存在的 **hello-world.md** 更改。另外，在 **source** 文件夹中新建文件夹并放入一个 **index.md** 文件，就是一个页面。
 *   你还可以使用 **netlify cms**. 这个也是 netlify一个很好的特性。
 *   你也可以用一些其他的项目，比如[Wexagonal](https://wexa.top) [Qexo](https://www.oplog.cn/qexo/) 但似乎这两个都没有对 netlify 进行专门支持，更适合 vercel 用户。
 
@@ -50,7 +50,7 @@ Hexo，一个强大的静态博客生成器。
 
 大致流程可参考[这篇文章](https://zhuanlan.zhihu.com/p/77651304?utm_id=0)的**Netlify CMS操作记录**部分。这一部分的第一个步骤由于我们没有使用本地环境，所以需要不同的实现方法。
 
-我们要在我们项目根目录的 **package.json** 中，在 **dependencies** 字段中，新加一条（还有逗号，但这里不好表达，就没有添加）:
+我们要在我们项目根目录的 **package.json** 中，在 **dependencies** 字段中，新加一条:
 
 ```json
 "hexo-netlify-cms": "^3.0.0"
@@ -96,3 +96,40 @@ Hexo，一个强大的静态博客生成器。
 ```
 
 需要注意的是在家的这一条之前，一定要补一个**英文逗号**。然后的流程可以按照上面那篇文章进行。
+
+## 配置文件
+
+方才，我们没有进行配置。这时我们需要进行配置。配置主要在项目根目录中的 **\_config.yml** 中进行。
+
+我们主要修改前两段。其中以 **#** 开头的是注释，没有用处，不需要更改。
+
+```yaml
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: Hexo
+subtitle: ''
+description: ''
+keywords:
+author: John Doe
+language: zh-CN
+timezone: ''
+
+# URL
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: https://example.com
+permalink: :category/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
+```
+
+主要更改的是如下字段 **title subtitle description author url** 这几个。语义性很强，可以直接翻译为**标题 副标题 介绍 作者 网址**。注意这几个是整个站点的配置，而非某个页面。
+
+至于目录中的 **\_config.butterfly.yml** ，是 butterfly 的主题配置文件，可以参照 [butterfly 文档](https://butterfly.js.org)。
+
+你也可以在 [Hexo 主题页面](https://hexo.io/themes/)选择你喜欢的，根据其教程更换即可。
