@@ -36,6 +36,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/vercel-labs/ai-chatbot>vercel-labs/ai-chatbot</a></td>
+    <td>A full-featured, hackable Next.js AI chatbot built by Vercel Labs</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/steven-tey/novel>steven-tey/novel</a></td>
+    <td>Notion-style WYSIWYG editor with AI-powered autocompletions</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/lxgw/LxgwWenkaiGB>lxgw/LxgwWenkaiGB</a></td>
+    <td>An open-source Simplified Chinese font derived from Klee One.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/sickcodes/Docker-OSX>sickcodes/Docker-OSX</a></td>
     <td>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</td>
   </tr>
@@ -63,23 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/BetterQQNT/BetterQQNT>BetterQQNT/BetterQQNT</a></td>
     <td>QQNT/Electron 插件</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/mo-jinran/BetterQQNT>mo-jinran/BetterQQNT</a></td>
-    <td>QQNT的插件加载器，轻量 · 简洁 · 开源</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/material-components/material-web>material-components/material-web</a></td>
-    <td>Material Design Web Components</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a></td>
-    <td>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-6-21    10:8
+Update At 2023-6-21    12:16
 
 ---
 
