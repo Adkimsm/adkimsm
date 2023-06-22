@@ -41,7 +41,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   <tr>
     <td><a href=https://github.com/steven-tey/novel>steven-tey/novel</a></td>
-    <td>Notion-style WYSIWYG editor with AI-powered autocompletions.</td>
+    <td>Notion-style WYSIWYG editor with AI-powered autocompletion.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/lxgw/LxgwWenkaiGB>lxgw/LxgwWenkaiGB</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-6-22    20:9
+Update At 2023-6-22    22:9
 
 ---
 
