@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a></td>
+    <td>My personal website.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/vercel-labs/ai-chatbot>vercel-labs/ai-chatbot</a></td>
     <td>A full-featured, hackable Next.js AI chatbot built by Vercel Labs</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a></td>
     <td>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/BetterQQNT/BetterQQNT>BetterQQNT/BetterQQNT</a></td>
-    <td>QQNT/Electron 插件</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-6-26    10:10
+Update At 2023-6-26    12:18
 
 ---
 
