@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a></td>
+    <td>QQNT-Improved - PC 端 QQNT 插件管理器</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a></td>
     <td>My personal website.</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a></td>
     <td>🧱 A suite of React components .  </td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a></td>
-    <td>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-7-1    1:1
+Update At 2023-7-1    3:1
 
 ---
 
