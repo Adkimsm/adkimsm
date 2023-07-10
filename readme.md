@@ -36,6 +36,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a></td>
+    <td>Mouse effect of iPad in browser that can be used in any framework</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/umutxyp/Personal-Website>umutxyp/Personal-Website</a></td>
+    <td>It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/udecode/plate>udecode/plate</a></td>
+    <td>The rich-text editor framework for React.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/2697a/bujuan>2697a/bujuan</a></td>
     <td>Flutter移动端+桌面端三方网易云播放器</td>
   </tr>
@@ -63,23 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/vercel-labs/ai-chatbot>vercel-labs/ai-chatbot</a></td>
     <td>A full-featured, hackable Next.js AI chatbot built by Vercel Labs</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/steven-tey/novel>steven-tey/novel</a></td>
-    <td>Notion-style WYSIWYG editor with AI-powered autocompletion.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/lxgw/LxgwWenkaiGB>lxgw/LxgwWenkaiGB</a></td>
-    <td>An open-source Simplified Chinese font derived from Klee One.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/sickcodes/Docker-OSX>sickcodes/Docker-OSX</a></td>
-    <td>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-7-10    4:11
+Update At 2023-7-10    6:13
 
 ---
 
