@@ -37,7 +37,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   
   <tr>
     <td><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a></td>
-    <td>Mouse effect of iPad in browser that can be used in any framework</td>
+    <td>● Mouse effect of iPad in browser that can be used in any framework</td>
   </tr>
   <tr>
     <td><a href=https://github.com/umutxyp/Personal-Website>umutxyp/Personal-Website</a></td>
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-7-10    6:13
+Update At 2023-7-10    8:12
 
 ---
 
