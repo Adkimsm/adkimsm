@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a></td>
+    <td>A rule-based tunnel in Go.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a></td>
     <td>● Mouse effect of iPad in browser that can be used in any framework</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a></td>
     <td>My personal website.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/vercel-labs/ai-chatbot>vercel-labs/ai-chatbot</a></td>
-    <td>A full-featured, hackable Next.js AI chatbot built by Vercel Labs</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-7-12    4:11
+Update At 2023-7-12    6:12
 
 ---
 
