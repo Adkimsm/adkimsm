@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a></td>
+    <td>The official gpt4free repository | various collection of powerful language models</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a></td>
     <td>A rule-based tunnel in Go.</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a></td>
     <td>QQNT-Improved - PC 端 QQNT 插件管理器</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a></td>
-    <td>My personal website.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-7-12    10:10
+Update At 2023-7-12    12:19
 
 ---
 
