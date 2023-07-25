@@ -36,6 +36,18 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/antfu/ni>antfu/ni</a></td>
+    <td>💡 Use the right package manager</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/so1ve/dlvr>so1ve/dlvr</a></td>
+    <td>👊 Host a cdn on serverless！</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/vue-vine/vue-vine>vue-vine/vue-vine</a></td>
+    <td>Another style of writing Vue components.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a></td>
     <td>The official gpt4free repository | various collection of powerful language models</td>
   </tr>
@@ -63,23 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/CatsJuice/me>CatsJuice/me</a></td>
     <td>Personal profile</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a></td>
-    <td>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a></td>
-    <td>⚡️ Simple, Modular & Accessible UI Components for your React Applications</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a></td>
-    <td>QQNT-Improved - PC 端 QQNT 插件管理器</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-7-25    0:53
+Update At 2023-7-25    2:41
 
 ---
 
