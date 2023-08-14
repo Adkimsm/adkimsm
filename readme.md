@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Adkimsm/milkdown-editor>Adkimsm/milkdown-editor</a></td>
+    <td>A markdown editor powered by milkdown, and rendering code views with codemirror.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/antfu/ni>antfu/ni</a></td>
     <td>💡 Use the right package manager</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/2697a/bujuan>2697a/bujuan</a></td>
     <td>Flutter移动端+桌面端三方网易云播放器</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/CatsJuice/me>CatsJuice/me</a></td>
-    <td>Personal profile</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-8-14    10:8
+Update At 2023-8-14    12:15
 
 ---
 
