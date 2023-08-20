@@ -7,6 +7,8 @@
 - I’m currently learning Vue 3, UI/UX Design & more!
 - Dissatisfied with the status quo but unable to do anything about it.
 
+> I'm preparing for The Senior High School Entrance Examination, commonly known as the zhongkao (Chinese: 中考, 'Middle Exam'), so I may be not available.
+
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
 
 ## Contacts
