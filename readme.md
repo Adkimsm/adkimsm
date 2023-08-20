@@ -36,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/creativetimofficial/material-tailwind>creativetimofficial/material-tailwind</a></td>
+    <td>@material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Adkimsm/milkdown-editor>Adkimsm/milkdown-editor</a></td>
     <td>A markdown editor powered by milkdown, and rendering code views with codemirror.</td>
   </tr>
@@ -71,15 +75,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/udecode/plate>udecode/plate</a></td>
     <td>The rich-text editor framework for React.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/2697a/bujuan>2697a/bujuan</a></td>
-    <td>Flutter移动端+桌面端三方网易云播放器</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-8-20    6:9
+Update At 2023-8-20    8:9
 
 ---
 
