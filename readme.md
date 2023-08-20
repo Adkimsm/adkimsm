@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Adkimsm.
 
-- A lazy 8th graders
+- A 9th graders
 - A self-taught coder who is passionate about web technologies and open source.
 - I’m currently learning Vue 3, UI/UX Design & more!
 - Dissatisfied with the status quo but unable to do anything about it.
@@ -79,7 +79,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2023-8-20    8:40
+Update At 2023-8-20    8:52
 
 ---
 
