@@ -38,6 +38,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/xiaoleGun/KernelSU_Action>xiaoleGun/KernelSU_Action</a></td>
+    <td>A action for build KernelSU into your kernel</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a></td>
     <td>universal plugin framework for web application</td>
   </tr>
@@ -73,15 +77,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a></td>
     <td>A rule-based tunnel in Go.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a></td>
-    <td>● Mouse effect of iPad in browser that can be used in any framework</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2023-10-6    4:10
+Update At 2023-10-6    6:11
 
 ---
 
