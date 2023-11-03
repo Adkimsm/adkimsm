@@ -74,14 +74,14 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td>The official gpt4free repository | various collection of powerful language models</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a></td>
-    <td>A rule-based tunnel in Go.</td>
+    <td><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a></td>
+    <td>● Mouse effect of iPad in browser that can be used in any framework</td>
   </tr>
 </table>
 
 </div>
 
-Update At 2023-11-3    4:10
+Update At 2023-11-3    6:11
 
 ---
 
