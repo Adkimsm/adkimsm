@@ -38,10 +38,6 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
-    <td><a href=https://github.com/syoker/extra-themed-icons>syoker/extra-themed-icons</a></td>
-    <td>More themed icons than a normal Pixel Launcher</td>
-  </tr>
-  <tr>
     <td><a href=https://github.com/xiaoleGun/KernelSU_Action>xiaoleGun/KernelSU_Action</a></td>
     <td>A action for build KernelSU into your kernel</td>
   </tr>
@@ -77,11 +73,15 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a></td>
     <td>The official gpt4free repository | various collection of powerful language models</td>
   </tr>
+  <tr>
+    <td><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a></td>
+    <td>● Mouse effect of iPad in browser that can be used in any framework</td>
+  </tr>
 </table>
 
 </div>
 
-Update At 2024-1-5    10:9
+Update At 2024-1-5    12:15
 
 ---
 
