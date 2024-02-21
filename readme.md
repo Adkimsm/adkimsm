@@ -38,6 +38,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/thecodrr/fdir>thecodrr/fdir</a></td>
+    <td>⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/trueWangSyutung/Dynamic-Notification-for-HyperOS>trueWangSyutung/Dynamic-Notification-for-HyperOS</a></td>
     <td>灵动通知增强</td>
   </tr>
@@ -73,15 +77,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/so1ve/dlvr>so1ve/dlvr</a></td>
     <td>👊 Host a cdn on serverless！</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/vue-vine/vue-vine>vue-vine/vue-vine</a></td>
-    <td>Another style of writing Vue components.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-2-21    10:9
+Update At 2024-2-21    12:15
 
 ---
 
