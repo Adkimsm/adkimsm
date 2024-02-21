@@ -38,6 +38,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/trueWangSyutung/Dynamic-Notification-for-HyperOS>trueWangSyutung/Dynamic-Notification-for-HyperOS</a></td>
+    <td>灵动通知增强</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/theajack/cnchar>theajack/cnchar</a></td>
     <td>🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)</td>
   </tr>
@@ -73,15 +77,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/vue-vine/vue-vine>vue-vine/vue-vine</a></td>
     <td>Another style of writing Vue components.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/xtekky/gpt4free>xtekky/gpt4free</a></td>
-    <td>The official gpt4free repository | various collection of powerful language models</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-2-21    2:14
+Update At 2024-2-21    4:10
 
 ---
 
