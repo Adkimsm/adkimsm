@@ -70,7 +70,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td>A markdown editor powered by milkdown, and rendering code views with codemirror.</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/antfu/ni>antfu/ni</a></td>
+    <td><a href=https://github.com/antfu-collective/ni>antfu-collective/ni</a></td>
     <td>💡 Use the right package manager</td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 </div>
 
-Update At 2024-4-20    14:7
+Update At 2024-4-20    16:10
 
 ---
 
