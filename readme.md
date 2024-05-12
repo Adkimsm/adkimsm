@@ -38,6 +38,14 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
   </tr>
   
   <tr>
+    <td><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a></td>
+    <td>A sloppy Clash.Meta GUI application based on Flutter.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a></td>
+    <td>基于NTQQ的无头Bot框架</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/thecodrr/fdir>thecodrr/fdir</a></td>
     <td>⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s</td>
   </tr>
@@ -69,19 +77,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/Adkimsm/milkdown-editor>Adkimsm/milkdown-editor</a></td>
     <td>A markdown editor powered by milkdown, and rendering code views with codemirror.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/antfu-collective/ni>antfu-collective/ni</a></td>
-    <td>💡 Use the right package manager</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/so1ve/dlvr>so1ve/dlvr</a></td>
-    <td>👊 Host a cdn on serverless！</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-5-12    6:12
+Update At 2024-5-12    8:11
 
 ---
 
