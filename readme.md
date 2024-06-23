@@ -2,12 +2,11 @@
 
 👋 Hi, I’m Adkimsm.
 
-- A 9th graders
+- A senior high school student
 - A self-taught coder who is passionate about web technologies and open source.
 - I’m currently learning Vue 3, UI/UX Design & more!
-- Dissatisfied with the status quo but unable to do anything about it.
 
-> I'm preparing for The Senior High School Entrance Examination, commonly known as the zhongkao (Chinese: 中考, 'Middle Exam'), so I may be not available.
+> The marks of The Senior High School Entrance Examination is going to come, and maybe these days I am not available.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
 
@@ -15,7 +14,7 @@
 
 <a href="mailto:adkinsm9277@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://t.me/adkimsm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://wpa.qq.com/msgrd?v=3&uin=3020035335&site=qq&menu=yes"><img src="https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" /></a> <a href="https://twitter.com/adkimsm"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
-Feel free to contact me. But I am still a student... I might not be avilable on work days.
+Feel free to contact me. ~~But I am still a student... I might not be avilable on work days~~. Being on vacation. All days are free.
 
 <div align="left">
 
@@ -29,7 +28,7 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
 
 <div>
 
-<h2>Recent Stars</h2>
+<h2>Recent Stars Project</h2>
 
 <table>
   <tr>
@@ -37,6 +36,10 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td>Description</td>
   </tr>
   
+  <tr>
+    <td><a href=https://github.com/nolly-studio/cult-ui>nolly-studio/cult-ui</a></td>
+    <td>Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.</td>
+  </tr>
   <tr>
     <td><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a></td>
     <td>A sloppy Clash.Meta GUI application based on Flutter.</td>
@@ -73,15 +76,11 @@ Feel free to contact me. But I am still a student... I might not be avilable on 
     <td><a href=https://github.com/creativetimofficial/material-tailwind>creativetimofficial/material-tailwind</a></td>
     <td>@material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Adkimsm/milkdown-editor>Adkimsm/milkdown-editor</a></td>
-    <td>A markdown editor powered by milkdown, and rendering code views with codemirror.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-6-23    2:28
+Update At 2024-6-23    2:48
 
 ---
 
