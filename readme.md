@@ -37,6 +37,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/KonghaYao/cn-font-split>KonghaYao/cn-font-split</a></td>
+    <td>划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.   </td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/nolly-studio/cult-ui>nolly-studio/cult-ui</a></td>
     <td>Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/ponces/treble_build_pe>ponces/treble_build_pe</a></td>
     <td>Script and patches for building PHH-Treble Pixel Experience</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/creativetimofficial/material-tailwind>creativetimofficial/material-tailwind</a></td>
-    <td>@material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-6-26    4:12
+Update At 2024-6-26    6:13
 
 ---
 
