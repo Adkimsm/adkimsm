@@ -37,6 +37,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/hmsk/vite-plugin-markdown>hmsk/vite-plugin-markdown</a></td>
+    <td>A vite plugin to import a Markdown file in various formats like Front Matter, HTML, ToC, and React/Vue Component</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/pmndrs/valtio>pmndrs/valtio</a></td>
     <td>💊 Valtio makes proxy-state simple  for React and Vanilla</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/theajack/cnchar>theajack/cnchar</a></td>
     <td>🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/xiaoleGun/KernelSU_Action>xiaoleGun/KernelSU_Action</a></td>
-    <td>A action for build KernelSU into your kernel</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-6-29    16:11
+Update At 2024-6-29    18:11
 
 ---
 
