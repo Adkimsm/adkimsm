@@ -37,6 +37,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/pmndrs/valtio>pmndrs/valtio</a></td>
+    <td>💊 Valtio makes proxy-state simple  for React and Vanilla</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/vvbbnn00/onedrive-index>vvbbnn00/onedrive-index</a></td>
     <td>☁ OneDrive public directory listing, based on onedrive-vercel-index, the secondary development Onedrive project fixes security vulnerabilities and improves performance, and provides Docker environment deployment solutions. 基于onedrive-vercel-index，修复安全漏洞并提升性能的二次开发Onedrive项目，提供Docker环境部署方案。</td>
   </tr>
@@ -72,15 +76,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/xiaoleGun/KernelSU_Action>xiaoleGun/KernelSU_Action</a></td>
     <td>A action for build KernelSU into your kernel</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a></td>
-    <td>universal plugin framework for web application</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-6-29    14:7
+Update At 2024-6-29    16:11
 
 ---
 
