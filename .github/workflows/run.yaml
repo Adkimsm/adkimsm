@@ -9,8 +9,6 @@ on:
       - main
   schedule:
     - cron: '0 0/2 * * *'
-    
-    # 此仓库最大的用处是用来凑commits
 
 jobs:
   build:
@@ -26,26 +24,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Cache pnpm modules
-        uses: actions/cache@v3
-        env:
-          cache-name: cache-pnpm-modules
-        with:
-          path: ~/.pnpm-store
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-
-      - uses: actions/cache@v3
-        with:
-          path: |
-            ${{ github.workspace }}/.next/cache
-          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/pnpm-lock.yaml') }}-${{ hashFiles('**.[jt]s', '**.[jt]sx') }}
-          restore-keys: |
-            ${{ runner.os }}-nextjs-${{ hashFiles('**/pnpm-lock.yaml') }}-
-      - uses: pnpm/action-setup@v2.2.2
-        with:
-          version: 7.x.x
-          run_install: true
 
       # - name: Import GPG key
       #   id: import_gpg
