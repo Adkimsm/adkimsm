@@ -4,9 +4,7 @@
 
 - A senior high school student
 - A self-taught coder who is passionate about web technologies and open source.
-- I’m currently learning Vue 3, UI/UX Design & more!
-
-> The marks of The Senior High School Entrance Examination is going to come, and maybe these days I am not available.
+- I’m currently learning Kotlin, UI/UX Design & more!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
 
