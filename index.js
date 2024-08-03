@@ -1,7 +1,7 @@
 import fs from "fs";
 
 let README_TEMPLATE = fs.readFileSync("./README-template.md", { encoding: "utf-8" });
-
+const USERNAME = 'adkimsm'
 let ate = new Date()
 
 let date = ate.getFullYear()+"-"+(ate.getMonth()+1)+"-"+ate.getDate()+ "    "+ate.getHours() + ":" + ate.getMinutes()
