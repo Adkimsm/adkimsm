@@ -4,9 +4,7 @@
 
 - A senior high school student
 - A self-taught coder who is passionate about web technologies and open source.
-- I’m currently learning Vue 3, UI/UX Design & more!
-
-> The marks of The Senior High School Entrance Examination is going to come, and maybe these days I am not available.
+- I’m currently learning Kotlin, UI/UX Design & more!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
 
@@ -36,6 +34,14 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td>Description</td>
   </tr>
   
+  <tr>
+    <td><a href=https://github.com/fisheva/Eva-Theme>fisheva/Eva-Theme</a></td>
+    <td>A comfortable and semantic theme.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/rsms/inter>rsms/inter</a></td>
+    <td>The Inter font family</td>
+  </tr>
   <tr>
     <td><a href=https://github.com/hmsk/vite-plugin-markdown>hmsk/vite-plugin-markdown</a></td>
     <td>A vite plugin to import a Markdown file in various formats like Front Matter, HTML, ToC, and React/Vue Component</td>
@@ -68,19 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/thecodrr/fdir>thecodrr/fdir</a></td>
     <td>⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/trueWangSyutung/Dynamic-Notification-for-HyperOS>trueWangSyutung/Dynamic-Notification-for-HyperOS</a></td>
-    <td>灵动通知增强</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/theajack/cnchar>theajack/cnchar</a></td>
-    <td>🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2024-7-4    10:10
+Update At 2024-8-3    9:48
 
 ---
 
