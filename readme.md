@@ -68,7 +68,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a></td>
-    <td>基于NTQQ的无头Bot框架</td>
+    <td>现代化的基于 NTQQ 的 Bot 协议端实现</td>
   </tr>
   <tr>
     <td><a href=https://github.com/thecodrr/fdir>thecodrr/fdir</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2024-8-13    0:48
+Update At 2024-8-13    2:33
 
 ---
 
