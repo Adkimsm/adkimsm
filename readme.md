@@ -48,7 +48,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/pmndrs/valtio>pmndrs/valtio</a></td>
-    <td>💊 Valtio makes proxy-state simple  for React and Vanilla</td>
+    <td>🧙 Valtio makes proxy-state simple  for React and Vanilla</td>
   </tr>
   <tr>
     <td><a href=https://github.com/vvbbnn00/onedrive-index>vvbbnn00/onedrive-index</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2024-8-15    12:19
+Update At 2024-8-15    14:9
 
 ---
 
