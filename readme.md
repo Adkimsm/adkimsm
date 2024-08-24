@@ -60,7 +60,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/nolly-studio/cult-ui>nolly-studio/cult-ui</a></td>
-    <td>Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.</td>
+    <td>Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌</td>
   </tr>
   <tr>
     <td><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2024-8-24    2:31
+Update At 2024-8-24    4:12
 
 ---
 
