@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/wfcz10086/AI-automatically-generates-novels>wfcz10086/AI-automatically-generates-novels</a></td>
+    <td>一个基于ai +提示词+思维导图 的大模型小说创作开源软件，目前已经成为数十家网文工作室提供了日更2万的重度生产力工具，现已升级到 v5.1。</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/fisheva/Eva-Theme>fisheva/Eva-Theme</a></td>
     <td>A comfortable and semantic theme.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a></td>
     <td>现代化的基于 NTQQ 的 Bot 协议端实现</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/thecodrr/fdir>thecodrr/fdir</a></td>
-    <td>⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-2-1    6:14
+Update At 2025-2-1    8:12
 
 ---
 
