@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/lizheming/github-translate-action>lizheming/github-translate-action</a></td>
+    <td>A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/YunYouJun/kotodama>YunYouJun/kotodama</a></td>
     <td>💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/unjs/citty>unjs/citty</a></td>
     <td>🌆 Elegant CLI Builder</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a></td>
-    <td>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-2-10    12:21
+Update At 2025-2-10    14:11
 
 ---
 
