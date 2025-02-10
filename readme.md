@@ -35,50 +35,50 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/YunYouJun/kotodama>YunYouJun/kotodama</a></td>
+    <td>💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/prose/prose>prose/prose</a></td>
+    <td>A Content Editor for GitHub.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/unstorage>unjs/unstorage</a></td>
+    <td> 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/ungh>unjs/ungh</a></td>
+    <td>🐙 Unlimited access to github API</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/rc9>unjs/rc9</a></td>
+    <td>Read/Write config couldn't be easier!</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/mdbox>unjs/mdbox</a></td>
+    <td>⬇ Just simple markdown utils</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/magic-regexp>unjs/magic-regexp</a></td>
+    <td>A compiled-away, type-safe, readable RegExp alternative</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/hookable>unjs/hookable</a></td>
+    <td>🪝 Awaitable Hooks</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/unjs/citty>unjs/citty</a></td>
+    <td>🌆 Elegant CLI Builder</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a></td>
     <td>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/wfcz10086/AI-automatically-generates-novels>wfcz10086/AI-automatically-generates-novels</a></td>
-    <td>一个基于ai +提示词+思维导图 的大模型小说创作开源软件，目前已经成为数十家网文工作室提供了日更2万的重度生产力工具，现已升级到 v5.1。</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/fisheva/Eva-Theme>fisheva/Eva-Theme</a></td>
-    <td>A comfortable and semantic theme.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/rsms/inter>rsms/inter</a></td>
-    <td>The Inter font family</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/hmsk/vite-plugin-markdown>hmsk/vite-plugin-markdown</a></td>
-    <td>A vite plugin to import a Markdown file in various formats like Front Matter, HTML, ToC, and React/Vue Component</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/pmndrs/valtio>pmndrs/valtio</a></td>
-    <td>🧙 Valtio makes proxy-state simple  for React and Vanilla</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/vvbbnn00/onedrive-index>vvbbnn00/onedrive-index</a></td>
-    <td>☁ OneDrive public directory listing, based on onedrive-vercel-index, the secondary development Onedrive project fixes security vulnerabilities and improves performance, and provides Docker environment deployment solutions. 基于onedrive-vercel-index，修复安全漏洞并提升性能的二次开发Onedrive项目，提供Docker环境部署方案。</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/KonghaYao/cn-font-split>KonghaYao/cn-font-split</a></td>
-    <td>划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.   </td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/nolly-studio/cult-ui>nolly-studio/cult-ui</a></td>
-    <td>Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a></td>
-    <td>A sloppy Clash.Meta GUI application based on Flutter.</td>
   </tr>
 </table>
 
 </div>
 
-Update At 2025-2-10    10:12
+Update At 2025-2-10    12:21
 
 ---
 
