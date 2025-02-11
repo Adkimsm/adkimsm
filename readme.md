@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Musenxi/LivePhotos-for-Typecho>Musenxi/LivePhotos-for-Typecho</a></td>
+    <td>A Typecho plugin that enables users to easily insert Apple Live Photos.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/lizheming/github-translate-action>lizheming/github-translate-action</a></td>
     <td>A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/unjs/hookable>unjs/hookable</a></td>
     <td>🪝 Awaitable Hooks</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/citty>unjs/citty</a></td>
-    <td>🌆 Elegant CLI Builder</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-2-11    4:13
+Update At 2025-2-11    6:15
 
 ---
 
