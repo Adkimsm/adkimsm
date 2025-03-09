@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a></td>
+    <td>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Musenxi/LivePhotos-for-Typecho>Musenxi/LivePhotos-for-Typecho</a></td>
     <td>A Typecho plugin that enables users to easily insert Apple Live Photos.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/unjs/magic-regexp>unjs/magic-regexp</a></td>
     <td>A compiled-away, type-safe, readable RegExp alternative</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/hookable>unjs/hookable</a></td>
-    <td>🪝 Awaitable Hooks</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-3-9    14:8
+Update At 2025-3-9    16:10
 
 ---
 
