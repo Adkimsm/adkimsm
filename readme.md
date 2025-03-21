@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/giacomo-b/rust-stakeholder>giacomo-b/rust-stakeholder</a></td>
+    <td>Generate impressive-looking terminal output to look busy when stakeholders walk by</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a></td>
     <td>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/unjs/mdbox>unjs/mdbox</a></td>
     <td>⬇ Just simple markdown utils</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/magic-regexp>unjs/magic-regexp</a></td>
-    <td>A compiled-away, type-safe, readable RegExp alternative</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-3-21    10:12
+Update At 2025-3-21    12:22
 
 ---
 
