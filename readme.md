@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/nulla2011/bluearchive-logo>nulla2011/bluearchive-logo</a></td>
+    <td>A Blue Archive logo generator.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/giacomo-b/rust-stakeholder>giacomo-b/rust-stakeholder</a></td>
     <td>Generate impressive-looking terminal output to look busy when stakeholders walk by</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/unjs/rc9>unjs/rc9</a></td>
     <td>Read/Write config couldn't be easier!</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/mdbox>unjs/mdbox</a></td>
-    <td>⬇ Just simple markdown utils</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-3-21    12:22
+Update At 2025-3-21    14:11
 
 ---
 
