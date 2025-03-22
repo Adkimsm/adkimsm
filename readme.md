@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/qurle/type>qurle/type</a></td>
+    <td>Markdown-friendly zen editor </td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/nulla2011/bluearchive-logo>nulla2011/bluearchive-logo</a></td>
     <td>A Blue Archive logo generator.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/unjs/ungh>unjs/ungh</a></td>
     <td>🐙 Unlimited access to github API</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/unjs/rc9>unjs/rc9</a></td>
-    <td>Read/Write config couldn't be easier!</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-3-22    10:12
+Update At 2025-3-22    12:19
 
 ---
 
