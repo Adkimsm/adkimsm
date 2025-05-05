@@ -56,7 +56,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/Musenxi/LivePhotos-for-Typecho>Musenxi/LivePhotos-for-Typecho</a></td>
-    <td>A Typecho plugin that enables users to easily insert Apple Live Photos.</td>
+    <td>A Typecho plugin that enables users to easily insert Apple Live Photos and Android Motion Photos.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/lizheming/github-translate-action>lizheming/github-translate-action</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2025-5-5    18:14
+Update At 2025-5-5    20:13
 
 ---
 
