@@ -35,6 +35,18 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Ray-D-Song/lexe>Ray-D-Song/lexe</a></td>
+    <td>Package your Node.js application into a single executable file, but only 10MB.🔥</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/nolebase/integrations>nolebase/integrations</a></td>
+    <td>✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced <mark> element, state-of-the-art SEO and <meta> generation, og image, thumbhash & blurhash images and more!</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a></td>
+    <td>The open-source CapCut alternative</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/catsout/wallpaper-engine-kde-plugin>catsout/wallpaper-engine-kde-plugin</a></td>
     <td>A kde wallpaper plugin integrating wallpaper engine</td>
   </tr>
@@ -62,23 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Musenxi/LivePhotos-for-Typecho>Musenxi/LivePhotos-for-Typecho</a></td>
     <td>A Typecho plugin that enables users to easily insert Apple Live Photos and Android Motion Photos.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/lizheming/github-translate-action>lizheming/github-translate-action</a></td>
-    <td>A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/YunYouJun/kotodama>YunYouJun/kotodama</a></td>
-    <td>💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/prose/prose>prose/prose</a></td>
-    <td>A Content Editor for GitHub.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-7-15    8:19
+Update At 2025-7-15    10:14
 
 ---
 
