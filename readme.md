@@ -35,6 +35,14 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/wxxsfxyzm/InstallerX-Revived>wxxsfxyzm/InstallerX-Revived</a></td>
+    <td>More Expressive InstallerX !</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/shuding/legid>shuding/legid</a></td>
+    <td>A library for generating safe, legit and random URL-compat IDs.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Ray-D-Song/lexe>Ray-D-Song/lexe</a></td>
     <td>Package your Node.js application into a single executable file, but only 10MB.🔥</td>
   </tr>
@@ -66,19 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/giacomo-b/rust-stakeholder>giacomo-b/rust-stakeholder</a></td>
     <td>Generate impressive-looking terminal output to look busy when stakeholders walk by</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a></td>
-    <td>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Musenxi/LivePhotos-for-Typecho>Musenxi/LivePhotos-for-Typecho</a></td>
-    <td>A Typecho plugin that enables users to easily insert Apple Live Photos and Android Motion Photos.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-7-22    6:20
+Update At 2025-7-22    10:15
 
 ---
 
