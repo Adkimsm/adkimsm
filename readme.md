@@ -35,6 +35,14 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Innei/vite-plugin-route-builder>Innei/vite-plugin-route-builder</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a></td>
+    <td>The free and privacy-friendly screen recorder with no limits 🎥</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/wxxsfxyzm/InstallerX-Revived>wxxsfxyzm/InstallerX-Revived</a></td>
     <td>More Expressive InstallerX !</td>
   </tr>
@@ -66,19 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/qurle/type>qurle/type</a></td>
     <td>Markdown-friendly zen editor </td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/nulla2011/bluearchive-logo>nulla2011/bluearchive-logo</a></td>
-    <td>A Blue Archive logo generator.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/giacomo-b/rust-stakeholder>giacomo-b/rust-stakeholder</a></td>
-    <td>Generate impressive-looking terminal output to look busy when stakeholders walk by</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-7-25    1:8
+Update At 2025-7-25    4:33
 
 ---
 
