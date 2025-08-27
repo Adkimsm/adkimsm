@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/crrashh1542/cdnjs-mirror>crrashh1542/cdnjs-mirror</a></td>
+    <td>🚀 轻量级的 CDNJS 镜像服务程序 / A lightweight mirror service for CDNJS</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Innei/vite-plugin-route-builder>Innei/vite-plugin-route-builder</a></td>
     <td></td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/ACT-02/PingFangUI-VF>ACT-02/PingFangUI-VF</a></td>
     <td>New PingFang UI font from iOS 18 / macOS 15 Sequoia. Processed by @alphaArgon.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/qurle/type>qurle/type</a></td>
-    <td>Markdown-friendly zen editor </td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2025-8-27    4:15
+Update At 2025-8-27    6:18
 
 ---
 
