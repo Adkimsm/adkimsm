@@ -36,7 +36,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   
   <tr>
     <td><a href=https://github.com/crrashh1542/cdnjs-mirror>crrashh1542/cdnjs-mirror</a></td>
-    <td>🚀 轻量级的 CDNJS 镜像服务程序 / A lightweight mirror service for CDNJS</td>
+    <td>🚀 轻量级的自建 CDNJS 镜像服务程序 / A lightweight self-hosting mirror service for CDNJS</td>
   </tr>
   <tr>
     <td><a href=https://github.com/Innei/vite-plugin-route-builder>Innei/vite-plugin-route-builder</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2025-8-28    6:19
+Update At 2025-8-28    8:16
 
 ---
 
