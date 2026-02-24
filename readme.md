@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Aromatic05/we-layerd>Aromatic05/we-layerd</a></td>
+    <td>Rust daemon that launches Wallpaper Engine through Wine, for wlroot based wm like niri.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/crrashh1542/cdnjs-mirror>crrashh1542/cdnjs-mirror</a></td>
     <td>🚀 轻量级的自建CDNJS镜像服务程序 / A lightweight self-hosting mirror service for CDNJS.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/catsout/wallpaper-engine-kde-plugin>catsout/wallpaper-engine-kde-plugin</a></td>
     <td>A kde wallpaper plugin integrating wallpaper engine</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/ACT-02/PingFangUI-VF>ACT-02/PingFangUI-VF</a></td>
-    <td>New PingFang UI font from iOS 18 / macOS 15 Sequoia. Processed by @alphaArgon.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-2-24    8:37
+Update At 2026-2-24    10:40
 
 ---
 
