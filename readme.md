@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/tessera-ui/tessera>tessera-ui/tessera</a></td>
+    <td>A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Aromatic05/we-layerd>Aromatic05/we-layerd</a></td>
     <td>Rust daemon that launches Wallpaper Engine through Wine, for wlroot based wm like niri.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a></td>
     <td>The open-source CapCut alternative</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/catsout/wallpaper-engine-kde-plugin>catsout/wallpaper-engine-kde-plugin</a></td>
-    <td>A kde wallpaper plugin integrating wallpaper engine</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-4-6    14:40
+Update At 2026-4-6    16:37
 
 ---
 
