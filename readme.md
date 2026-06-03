@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Anatdx/Nemuri>Anatdx/Nemuri</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/tessera-ui/tessera>tessera-ui/tessera</a></td>
     <td>A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/nolebase/integrations>nolebase/integrations</a></td>
     <td>✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced <mark> element, state-of-the-art SEO and <meta> generation, og image, thumbhash & blurhash images and more!</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a></td>
-    <td>The open-source CapCut alternative</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-6-3    2:58
+Update At 2026-6-3    8:47
 
 ---
 
