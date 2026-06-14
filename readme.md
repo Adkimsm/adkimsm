@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Ylarod/Florida>Ylarod/Florida</a></td>
+    <td>基础反检测 frida-server / Basic anti-detection frida-server</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Anatdx/Nemuri>Anatdx/Nemuri</a></td>
     <td></td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Ray-D-Song/lexe>Ray-D-Song/lexe</a></td>
     <td>Package your Node.js application into a single executable file, but only 10MB.🔥</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/nolebase/integrations>nolebase/integrations</a></td>
-    <td>✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced <mark> element, state-of-the-art SEO and <meta> generation, og image, thumbhash & blurhash images and more!</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-6-14    13:43
+Update At 2026-6-14    15:43
 
 ---
 
