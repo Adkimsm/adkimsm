@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/honojs/hono>honojs/hono</a></td>
+    <td>Web framework built on Web Standards</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Ylarod/Florida>Ylarod/Florida</a></td>
     <td>基础反检测 frida-server / Basic anti-detection frida-server</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/shuding/legid>shuding/legid</a></td>
     <td>A library for generating safe, legit and random URL-compat IDs.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Ray-D-Song/lexe>Ray-D-Song/lexe</a></td>
-    <td>Package your Node.js application into a single executable file, but only 10MB.🔥</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-6-25    14:7
+Update At 2026-6-25    18:3
 
 ---
 
