@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/developer-krushna/Dex-Editor-Android>developer-krushna/Dex-Editor-Android</a></td>
+    <td>A work in progress Android dalvik byte code(DEX) editor </td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/lfhy/openai-tool-bridge>lfhy/openai-tool-bridge</a></td>
     <td>一个 OpenAI 兼容代理，把原生 tools/tool_calls 桥接为提示词工具调用，适配不支持原生工具调用的模型。</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a></td>
     <td>The free and privacy-friendly screen recorder with no limits 🎥</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/wxxsfxyzm/InstallerX-Revived>wxxsfxyzm/InstallerX-Revived</a></td>
-    <td>More Expressive InstallerX !</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-6-28    15:12
+Update At 2026-6-28    17:0
 
 ---
 
