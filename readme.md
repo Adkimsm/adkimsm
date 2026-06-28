@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/lfhy/openai-tool-bridge>lfhy/openai-tool-bridge</a></td>
+    <td>一个 OpenAI 兼容代理，把原生 tools/tool_calls 桥接为提示词工具调用，适配不支持原生工具调用的模型。</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/honojs/hono>honojs/hono</a></td>
     <td>Web framework built on Web Standards</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/wxxsfxyzm/InstallerX-Revived>wxxsfxyzm/InstallerX-Revived</a></td>
     <td>More Expressive InstallerX !</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/shuding/legid>shuding/legid</a></td>
-    <td>A library for generating safe, legit and random URL-compat IDs.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-6-28    13:20
+Update At 2026-6-28    15:12
 
 ---
 
