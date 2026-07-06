@@ -60,7 +60,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/Aromatic05/we-layerd>Aromatic05/we-layerd</a></td>
-    <td>Rust daemon that launches Wallpaper Engine through Wine, for wlroot based wm like niri.</td>
+    <td>A native Wallpaper Engine runtime for Linux Wayland, powered by a Rust daemon and supporting GNOME plus layer-shell compositors like niri, Hyprland, and KDE Plasma.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/crrashh1542/cdnjs-mirror>crrashh1542/cdnjs-mirror</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2026-7-6    2:28
+Update At 2026-7-6    8:12
 
 ---
 
