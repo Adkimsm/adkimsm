@@ -35,6 +35,14 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/yyjeqhc/webcodex>yyjeqhc/webcodex</a></td>
+    <td>Self-hosted runtime for exposing controlled project tools to ChatGPT GPT Actions and MCP clients.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/mybolide/coding-tools-mcp>mybolide/coding-tools-mcp</a></td>
+    <td>Give any AI agent the ability to code</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/developer-krushna/Dex-Editor-Android>developer-krushna/Dex-Editor-Android</a></td>
     <td>A work in progress Android dalvik byte code(DEX) editor </td>
   </tr>
@@ -66,19 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/crrashh1542/cdnjs-mirror>crrashh1542/cdnjs-mirror</a></td>
     <td>🚀 轻量级的自建CDNJS镜像服务程序 / A lightweight self-hosting mirror service for CDNJS.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Innei/vite-plugin-route-builder>Innei/vite-plugin-route-builder</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a></td>
-    <td>The free and privacy-friendly screen recorder with no limits 🎥</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-7    8:47
+Update At 2026-8-7    10:43
 
 ---
 
