@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/qiin2333/moonlight-vplus>qiin2333/moonlight-vplus</a></td>
+    <td>Turn your Android device into a powerful game streaming terminal! Gawr! ✨</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/yyjeqhc/webcodex>yyjeqhc/webcodex</a></td>
     <td>Self-hosted runtime for exposing controlled project tools to ChatGPT GPT Actions and MCP clients.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Aromatic05/we-layerd>Aromatic05/we-layerd</a></td>
     <td>A native Wallpaper Engine runtime for Linux Wayland, powered by a Rust daemon and supporting GNOME plus layer-shell compositors like niri, Hyprland, and KDE Plasma.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/crrashh1542/cdnjs-mirror>crrashh1542/cdnjs-mirror</a></td>
-    <td>🚀 轻量级的自建CDNJS镜像服务程序 / A lightweight self-hosting mirror service for CDNJS.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-9    10:24
+Update At 2026-8-9    14:25
 
 ---
 
