@@ -35,6 +35,14 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Evianis/travel-photo-abstraction>Evianis/travel-photo-abstraction</a></td>
+    <td>A source-available Codex skill for distilling photographs into sparse editorial abstractions.</td>
+  </tr>
+  <tr>
+    <td><a href=https://github.com/marswaveai/ColaMD>marswaveai/ColaMD</a></td>
+    <td>The Agent Native Markdown Editor.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/qiin2333/moonlight-vplus>qiin2333/moonlight-vplus</a></td>
     <td>Turn your Android device into a powerful game streaming terminal! Gawr! ✨</td>
   </tr>
@@ -66,19 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Anatdx/Nemuri>Anatdx/Nemuri</a></td>
     <td></td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/tessera-ui/tessera>tessera-ui/tessera</a></td>
-    <td>A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.</td>
-  </tr>
-  <tr>
-    <td><a href=https://github.com/Aromatic05/we-layerd>Aromatic05/we-layerd</a></td>
-    <td>A native Wallpaper Engine runtime for Linux Wayland, powered by a Rust daemon and supporting GNOME plus layer-shell compositors like niri, Hyprland, and KDE Plasma.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-10    7:15
+Update At 2026-8-10    9:9
 
 ---
 
