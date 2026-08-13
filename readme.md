@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/agegr/pi-web>agegr/pi-web</a></td>
+    <td>Web UI for the pi coding agent</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Nutlope/logocreator>Nutlope/logocreator</a></td>
     <td>A free + OSS logo generator powered by Flux on Together AI</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/honojs/hono>honojs/hono</a></td>
     <td>Web framework built on Web Standards</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Ylarod/Florida>Ylarod/Florida</a></td>
-    <td>基础反检测 frida-server / Basic anti-detection frida-server</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-13    16:46
+Update At 2026-8-13    18:51
 
 ---
 
