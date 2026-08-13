@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Nutlope/logocreator>Nutlope/logocreator</a></td>
+    <td>A free + OSS logo generator powered by Flux on Together AI</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Evianis/travel-photo-abstraction>Evianis/travel-photo-abstraction</a></td>
     <td>A source-available Codex skill for distilling photographs into sparse editorial abstractions.</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Ylarod/Florida>Ylarod/Florida</a></td>
     <td>基础反检测 frida-server / Basic anti-detection frida-server</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Anatdx/Nemuri>Anatdx/Nemuri</a></td>
-    <td></td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-12    22:31
+Update At 2026-8-13    1:15
 
 ---
 
