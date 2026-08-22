@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/ColdLemonTea/WeType-inline-autofill>ColdLemonTea/WeType-inline-autofill</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/agegr/pi-web>agegr/pi-web</a></td>
     <td>Web UI for the pi coding agent</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/lfhy/openai-tool-bridge>lfhy/openai-tool-bridge</a></td>
     <td>一个 OpenAI 兼容代理，把原生 tools/tool_calls 桥接为提示词工具调用，适配不支持原生工具调用的模型。</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/honojs/hono>honojs/hono</a></td>
-    <td>Web framework built on Web Standards</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-22    12:21
+Update At 2026-8-22    14:12
 
 ---
 
