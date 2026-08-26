@@ -64,7 +64,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/yyjeqhc/webcodex>yyjeqhc/webcodex</a></td>
-    <td>Self-hosted runtime for exposing controlled project tools to ChatGPT GPT Actions and MCP clients.</td>
+    <td>Give cloud AI agents a real development environment on your own machines.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/mybolide/coding-tools-mcp>mybolide/coding-tools-mcp</a></td>
@@ -78,7 +78,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2026-8-26    4:31
+Update At 2026-8-26    6:33
 
 ---
 
