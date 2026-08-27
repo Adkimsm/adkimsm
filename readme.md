@@ -35,6 +35,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/DejavuMoe/PicForge>DejavuMoe/PicForge</a></td>
+    <td>a local-first browser app for batch image compression and resizing. It uses Canvas, Web Workers, and WebAssembly codecs to process images on your device. There are no accounts, uploads, or server-side image processing.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/vercel/satori>vercel/satori</a></td>
     <td>Enlightened library to convert HTML and CSS to SVG</td>
   </tr>
@@ -70,15 +74,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/mybolide/coding-tools-mcp>mybolide/coding-tools-mcp</a></td>
     <td>Give any AI agent the ability to code</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/developer-krushna/Dex-Editor-Android>developer-krushna/Dex-Editor-Android</a></td>
-    <td>A work in progress Android dalvik byte code(DEX) editor </td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-8-26    22:37
+Update At 2026-8-27    6:25
 
 ---
 
