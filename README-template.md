@@ -1,12 +1,10 @@
 <h1 align="center">Adkimsm.</h1>
 
-👋 Hi, I’m Adkimsm.
+👋 Hi, I’m Adkimsm. ![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)
 
-- A senior high school student
+- A senior three school student
 - A self-taught coder who is passionate about web technologies and open source.
 - I’m currently learning Kotlin, UI/UX Design & more!
-
-![](https://visitor-badge.glitch.me/badge?page_id=adkimsm)
 
 ## Contacts
 
@@ -18,9 +16,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 <h2>Charts</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adkimsm&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkimsm&layout=compact" />
+<img src="https://github-stats-extended.vercel.app/api?username=Adkimsm&include_all_commits=true" />
 
 </div>
 
