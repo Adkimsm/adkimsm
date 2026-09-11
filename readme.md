@@ -64,7 +64,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/marswaveai/ColaMD>marswaveai/ColaMD</a></td>
-    <td>The Agent Native Markdown Editor.</td>
+    <td>A free, elegant Markdown editor for macOS, Windows and Linux. Simple by design, always in sync with the file on disk.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/qiin2333/moonlight-vplus>qiin2333/moonlight-vplus</a></td>
@@ -74,7 +74,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2026-9-11    2:19
+Update At 2026-9-11    8:26
 
 ---
 
