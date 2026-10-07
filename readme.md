@@ -40,7 +40,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   <tr>
     <td><a href=https://github.com/dnshe/DNSHE-FreeDomains>dnshe/DNSHE-FreeDomains</a></td>
-    <td>🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)</td>
+    <td>🌐 DNSHE — Free subdomains for developers, with Anycast DNS, a REST API, and free renewal within 180 days before expiry. Available suffixes: us.ci, cc.cd, de5.net, ccwu.cc.</td>
   </tr>
   <tr>
     <td><a href=https://github.com/DejavuMoe/PicForge>DejavuMoe/PicForge</a></td>
@@ -74,7 +74,7 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
 
 </div>
 
-Update At 2026-10-7    3:35
+Update At 2026-10-7    10:44
 
 ---
 
