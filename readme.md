@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/NEORUAA/HyperOS-AVD>NEORUAA/HyperOS-AVD</a></td>
+    <td>HyperOS in the official ARM64 Android Studio Emulator</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Reamd7/ompchamber>Reamd7/ompchamber</a></td>
     <td>Desktop and web interface for OpenCode AI agent</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Evianis/travel-photo-abstraction>Evianis/travel-photo-abstraction</a></td>
     <td>A source-available Codex skill for distilling photographs into sparse editorial abstractions.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/marswaveai/ColaMD>marswaveai/ColaMD</a></td>
-    <td>A free, elegant Markdown editor for macOS, Windows and Linux. Simple by design, always in sync with the file on disk.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-10-8    4:23
+Update At 2026-10-8    12:33
 
 ---
 
