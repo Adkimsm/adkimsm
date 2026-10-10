@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/chenming0v0/OMPiUI>chenming0v0/OMPiUI</a></td>
+    <td>将OMP的sdk接入做出的第三方UI工具，提供便捷的网络连接服务和方便的管理UI</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/NEORUAA/HyperOS-AVD>NEORUAA/HyperOS-AVD</a></td>
     <td>HyperOS in the official ARM64 Android Studio Emulator</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Nutlope/logocreator>Nutlope/logocreator</a></td>
     <td>A free + OSS logo generator powered by Flux on Together AI</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Evianis/travel-photo-abstraction>Evianis/travel-photo-abstraction</a></td>
-    <td>A source-available Codex skill for distilling photographs into sparse editorial abstractions.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-10-10    10:19
+Update At 2026-10-10    16:41
 
 ---
 
