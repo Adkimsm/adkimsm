@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/CyrilGuoCODE/Auto366>CyrilGuoCODE/Auto366</a></td>
+    <td>天学网自动化答题！解放双手！</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/chenming0v0/OMPiUI>chenming0v0/OMPiUI</a></td>
     <td>将OMP的sdk接入做出的第三方UI工具，提供便捷的网络连接服务和方便的管理UI</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/agegr/pi-web>agegr/pi-web</a></td>
     <td>Web UI for the pi coding agent</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Nutlope/logocreator>Nutlope/logocreator</a></td>
-    <td>A free + OSS logo generator powered by Flux on Together AI</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-10-17    8:9
+Update At 2026-10-17    13:22
 
 ---
 
