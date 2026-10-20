@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/egoist/mygo>egoist/mygo</a></td>
+    <td>Develop desktop apps with native UI or web frontend in Go</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/CyrilGuoCODE/Auto366>CyrilGuoCODE/Auto366</a></td>
     <td>天学网自动化答题！解放双手！</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/ColdLemonTea/WeType-inline-autofill>ColdLemonTea/WeType-inline-autofill</a></td>
     <td></td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/agegr/pi-web>agegr/pi-web</a></td>
-    <td>Web UI for the pi coding agent</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-10-20    0:50
+Update At 2026-10-20    6:56
 
 ---
 
