@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/cwuom/NeriPlayer>cwuom/NeriPlayer</a></td>
+    <td>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/egoist/mygo>egoist/mygo</a></td>
     <td>Develop desktop apps with native UI or web frontend in Go</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/vercel/satori>vercel/satori</a></td>
     <td>Enlightened library to convert HTML and CSS to SVG</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/ColdLemonTea/WeType-inline-autofill>ColdLemonTea/WeType-inline-autofill</a></td>
-    <td></td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-11-3    1:55
+Update At 2026-11-3    8:54
 
 ---
 
