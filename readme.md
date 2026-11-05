@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/frostming/ai-guard>frostming/ai-guard</a></td>
+    <td>Require a human, verified by GitHub sign-in and Cloudflare Turnstile, to attest each pull request before merge. Serverless on Cloudflare Workers.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/cwuom/NeriPlayer>cwuom/NeriPlayer</a></td>
     <td>A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/DejavuMoe/PicForge>DejavuMoe/PicForge</a></td>
     <td>a local-first browser app for batch image compression and resizing. It uses Canvas, Web Workers, and WebAssembly codecs to process images on your device. There are no accounts, uploads, or server-side image processing.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/vercel/satori>vercel/satori</a></td>
-    <td>Enlightened library to convert HTML and CSS to SVG</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-11-5    1:54
+Update At 2026-11-5    8:48
 
 ---
 
