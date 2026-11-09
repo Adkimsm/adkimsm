@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/longbridge/nsh>longbridge/nsh</a></td>
+    <td>Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/frostming/ai-guard>frostming/ai-guard</a></td>
     <td>Require a human, verified by GitHub sign-in and Cloudflare Turnstile, to attest each pull request before merge. Serverless on Cloudflare Workers.</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/dnshe/DNSHE-FreeDomains>dnshe/DNSHE-FreeDomains</a></td>
     <td>🌐 DNSHE — Free subdomains for developers, with Anycast DNS, a REST API, and free renewal within 180 days before expiry. Available suffixes: us.ci, cc.cd, de5.net, ccwu.cc.</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/DejavuMoe/PicForge>DejavuMoe/PicForge</a></td>
-    <td>a local-first browser app for batch image compression and resizing. It uses Canvas, Web Workers, and WebAssembly codecs to process images on your device. There are no accounts, uploads, or server-side image processing.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-11-9    1:19
+Update At 2026-11-9    8:54
 
 ---
 
