@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/anefzaoui/misterdownloadmanager>anefzaoui/misterdownloadmanager</a></td>
+    <td>misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/longbridge/nsh>longbridge/nsh</a></td>
     <td>Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/wuzf/2fa>wuzf/2fa</a></td>
     <td>Two Factor Authentication</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/dnshe/DNSHE-FreeDomains>dnshe/DNSHE-FreeDomains</a></td>
-    <td>🌐 DNSHE — Free subdomains for developers, with Anycast DNS, a REST API, and free renewal within 180 days before expiry. Available suffixes: us.ci, cc.cd, de5.net, ccwu.cc.</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-11-10    3:54
+Update At 2026-11-10    11:58
 
 ---
 
