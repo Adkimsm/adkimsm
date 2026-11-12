@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/Hinln/ARTEX>Hinln/ARTEX</a></td>
+    <td>ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/anefzaoui/misterdownloadmanager>anefzaoui/misterdownloadmanager</a></td>
     <td>misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/Reamd7/ompchamber>Reamd7/ompchamber</a></td>
     <td>Desktop and web interface for OpenCode AI agent</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/wuzf/2fa>wuzf/2fa</a></td>
-    <td>Two Factor Authentication</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-11-12    14:22
+Update At 2026-11-12    21:58
 
 ---
 
