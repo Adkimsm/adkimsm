@@ -31,6 +31,10 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
   </tr>
   
   <tr>
+    <td><a href=https://github.com/std-microblock/artseek>std-microblock/artseek</a></td>
+    <td>Zero-injection, read-only Android ART heap inspector. Query live objects and from TypeScript without Frida or Xposed.</td>
+  </tr>
+  <tr>
     <td><a href=https://github.com/Hinln/ARTEX>Hinln/ARTEX</a></td>
     <td>ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。</td>
   </tr>
@@ -66,15 +70,11 @@ Feel free to contact me. ~~But I am still a student... I might not be avilable o
     <td><a href=https://github.com/NEORUAA/HyperOS-AVD>NEORUAA/HyperOS-AVD</a></td>
     <td>HyperOS in the official ARM64 Android Studio Emulator</td>
   </tr>
-  <tr>
-    <td><a href=https://github.com/Reamd7/ompchamber>Reamd7/ompchamber</a></td>
-    <td>Desktop and web interface for OpenCode AI agent</td>
-  </tr>
 </table>
 
 </div>
 
-Update At 2026-11-23    4:59
+Update At 2026-11-23    16:58
 
 ---
 
